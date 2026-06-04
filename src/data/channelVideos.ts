@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-06-04T05:11:58.162Z";
+export const channelVideosSyncedAt = "2026-06-04T15:48:07.759Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -22,30 +22,25 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch02",
-    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirito",
-      "paura",
-      "opera",
-      "cacciarlo",
-      "fuori"
+      "spirit"
     ]
   },
   {
     "id": "ch03",
-    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
-    "category": "Fede",
+    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "contristare",
-      "spirito",
-      "santo"
+      "grieve",
+      "spirit"
     ]
   },
   {

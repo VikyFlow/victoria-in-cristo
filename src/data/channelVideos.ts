@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-06-05T04:49:45.369Z";
+export const channelVideosSyncedAt = "2026-06-05T15:30:00.850Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -75,16 +75,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch06",
-    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "church",
-      "really",
+      "veramente",
+      "chiesa",
       "ekklesia",
-      "christ"
+      "corpo",
+      "cristo"
     ]
   },
   {
@@ -188,13 +189,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch14",
-    "title": "A SEX BOOK FOR CHILDREN? They'll call EVIL good. Maria Pesce",
+    "title": "LIBRO DI SESSO PER I BAMBINI? Chiameranno il MALE bene. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "1DK7RU8vBeA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "29:28",
     "topics": [
-      "children"
+      "libro",
+      "sesso",
+      "bambini",
+      "chiameranno"
     ]
   },
   {
@@ -228,45 +232,47 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch17",
-    "title": "\"Dying to Self: The Hidden Key to Living in God's Will.\" with Leonardo Bertoncello",
-    "category": "Crescita Spirituale",
+    "title": "\"Morire a se stessi: la CHIAVE nascosta per vivere nella volontà di Dio. con Leonardo Bertoncello",
+    "category": "Scopo della Vita",
     "youtubeId": "EEeNj_uVTno",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:14",
     "topics": [
-      "dying",
-      "hidden",
-      "living",
-      "leonardo",
-      "bertoncello"
+      "morire",
+      "stessi",
+      "chiave",
+      "nascosta",
+      "vivere",
+      "nella",
+      "volonta",
+      "leonardo"
     ]
   },
   {
     "id": "ch18",
-    "title": "Don't ignore the Holy Spirit within you anymore! | Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Non ignorare più lo Spirito Santo in te! | Maria Pesce",
+    "category": "Fede",
     "youtubeId": "JkOJqPfUuHU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:14",
     "topics": [
-      "ignore",
-      "spirit",
-      "within",
-      "anymore"
+      "ignorare",
+      "spirito",
+      "santo"
     ]
   },
   {
     "id": "ch19",
-    "title": "HOW TO MAINTAIN YOUR FREEDOM IN CHRIST? BE RADICAL! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "COME MANTENERE LA TUA LIBERTA' IN CRISTO? SII RADICALE! Con Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "13W6KLZewpI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "40:17",
     "topics": [
-      "maintain",
-      "freedom",
-      "christ",
-      "radical"
+      "mantenere",
+      "liberta",
+      "cristo",
+      "radicale"
     ]
   },
   {
@@ -391,17 +397,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch28",
-    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "power",
-      "gospel",
-      "kingdom",
-      "equipped",
-      "christians"
+      "potenza",
+      "vangelo",
+      "regno",
+      "cristiani",
+      "equipaggiati"
     ]
   },
   {

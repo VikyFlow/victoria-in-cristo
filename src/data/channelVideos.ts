@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-06-07T14:22:30.646Z";
+export const channelVideosSyncedAt = "2026-06-08T05:04:09.818Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -75,17 +75,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch06",
-    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "veramente",
-      "chiesa",
+      "church",
+      "really",
       "ekklesia",
-      "corpo",
-      "cristo"
+      "christ"
     ]
   },
   {
@@ -104,20 +103,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch08",
-    "title": "Perché non riesco a CAMBIARE?. Decisioni RADICALI. Con Leonardo Bertoncello. Ministero SiamoUno",
+    "title": "Why Can't I Change?. RADICAL Decisions. With Leonardo Bertoncello. Ministry of We Are One",
     "category": "Crescita Spirituale",
     "youtubeId": "t8YMuWAJyW4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "38:10",
     "topics": [
-      "perche",
-      "riesco",
-      "cambiare",
-      "decisioni",
-      "radicali",
+      "change",
+      "radical",
+      "decisions",
       "leonardo",
       "bertoncello",
-      "ministero"
+      "ministry"
     ]
   },
   {
@@ -134,77 +131,70 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "DONNE guarite e libere! Hai una chiamata per il REGNO di Dio. con Maria Pesce \"Conferenza Donne\"",
-    "category": "Vangelo",
+    "title": "WOMEN healed and free! You have a calling to the KINGDOM of God. With Maria Pesce, \"Women's Confe...",
+    "category": "Crescita Spirituale",
     "youtubeId": "OuS-U93TcU0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:42",
     "topics": [
-      "donne",
-      "guarite",
-      "libere",
-      "chiamata",
-      "regno",
-      "conferenza"
+      "women",
+      "healed",
+      "calling",
+      "kingdom",
+      "confe"
     ]
   },
   {
     "id": "ch11",
-    "title": "La potenza della PRESENZA DI DIO. La Sua presenza cambia tutto! | Daniele Pesce",
+    "title": "The Power of God's Presence. His Presence Changes Everything! | Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "GtOM6X8EyEU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "54:27",
     "topics": [
-      "potenza",
-      "presenza",
-      "cambia",
-      "tutto"
+      "power",
+      "presence",
+      "changes",
+      "everything"
     ]
   },
   {
     "id": "ch12",
-    "title": "Come Rimanere Uniti a Cristo: Fai della Sua Presenza la Tua Priorità. Maria Pesce",
-    "category": "Vangelo",
+    "title": "How to Stay United with Christ: Make His Presence Your Priority. Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "VcFvHl4CNJg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:18",
     "topics": [
-      "rimanere",
-      "uniti",
-      "cristo",
-      "presenza",
-      "priorita"
+      "united",
+      "christ",
+      "presence",
+      "priority"
     ]
   },
   {
     "id": "ch13",
-    "title": "\"La Porta Stretta : Entrare è solo l'inizio\". La via stretta NON è per tutti. Con Maurizio Pesce",
+    "title": "\"The Narrow Gate: Entering Is Only the Beginning.\" The narrow path is NOT for everyone. With Maur...",
     "category": "Crescita Spirituale",
     "youtubeId": "6ZwLC7myliQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "39:36",
     "topics": [
-      "porta",
-      "stretta",
-      "entrare",
-      "inizio",
-      "tutti",
-      "maurizio"
+      "narrow",
+      "entering",
+      "beginning",
+      "everyone"
     ]
   },
   {
     "id": "ch14",
-    "title": "LIBRO DI SESSO PER I BAMBINI? Chiameranno il MALE bene. Maria Pesce",
+    "title": "A SEX BOOK FOR CHILDREN? They'll call EVIL good. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "1DK7RU8vBeA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "29:28",
     "topics": [
-      "libro",
-      "sesso",
-      "bambini",
-      "chiameranno"
+      "children"
     ]
   },
   {
@@ -224,62 +214,59 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch16",
-    "title": "Il Dio delle Seconde Opportunità! è tempo di riscattare ciò che hai perso. Con Past. Daniele Pesce",
+    "title": "The God of Second Chances! It's time to redeem what you've lost. With Pastor Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "EB2zAiJCPas",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:35",
     "topics": [
-      "seconde",
-      "opportunita",
-      "tempo",
-      "riscattare",
-      "perso"
+      "second",
+      "chances",
+      "redeem",
+      "pastor"
     ]
   },
   {
     "id": "ch17",
-    "title": "\"Morire a se stessi: la CHIAVE nascosta per vivere nella volontà di Dio. con Leonardo Bertoncello",
-    "category": "Scopo della Vita",
+    "title": "\"Dying to Self: The Hidden Key to Living in God's Will.\" with Leonardo Bertoncello",
+    "category": "Crescita Spirituale",
     "youtubeId": "EEeNj_uVTno",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:14",
     "topics": [
-      "morire",
-      "stessi",
-      "chiave",
-      "nascosta",
-      "vivere",
-      "nella",
-      "volonta",
-      "leonardo"
+      "dying",
+      "hidden",
+      "living",
+      "leonardo",
+      "bertoncello"
     ]
   },
   {
     "id": "ch18",
-    "title": "Non ignorare più lo Spirito Santo in te! | Maria Pesce",
-    "category": "Fede",
+    "title": "Don't ignore the Holy Spirit within you anymore! | Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "JkOJqPfUuHU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:14",
     "topics": [
-      "ignorare",
-      "spirito",
-      "santo"
+      "ignore",
+      "spirit",
+      "within",
+      "anymore"
     ]
   },
   {
     "id": "ch19",
-    "title": "COME MANTENERE LA TUA LIBERTA' IN CRISTO? SII RADICALE! Con Maria Pesce",
-    "category": "Vangelo",
+    "title": "HOW TO MAINTAIN YOUR FREEDOM IN CHRIST? BE RADICAL! With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "13W6KLZewpI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "40:17",
     "topics": [
-      "mantenere",
-      "liberta",
-      "cristo",
-      "radicale"
+      "maintain",
+      "freedom",
+      "christ",
+      "radical"
     ]
   },
   {
@@ -315,18 +302,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch22",
-    "title": "\"ALLARGA I MIEI CONFINI\" LA POTENTE PREGHIERA DI JABES CHE CAMBIERA' LA TUA VITA | Maria Pesce",
-    "category": "Fede",
+    "title": "\"EXPAND MY BOUNDARIES\"—JABEZ'S POWERFUL PRAYER THAT WILL CHANGE YOUR LIFE | Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "3BeRtRWxJWY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:26:48",
     "topics": [
-      "allarga",
-      "confini",
-      "potente",
-      "preghiera",
-      "jabes",
-      "cambiera"
+      "expand",
+      "boundaries",
+      "jabez",
+      "powerful",
+      "prayer",
+      "change"
     ]
   },
   {
@@ -404,17 +391,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch28",
-    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "potenza",
-      "vangelo",
-      "regno",
-      "cristiani",
-      "equipaggiati"
+      "power",
+      "gospel",
+      "kingdom",
+      "equipped",
+      "christians"
     ]
   },
   {

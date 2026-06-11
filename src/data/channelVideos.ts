@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-06-10T16:11:07.431Z";
+export const channelVideosSyncedAt = "2026-06-11T05:01:06.807Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -47,15 +47,14 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch04",
-    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
-    "category": "Fede",
+    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "contristare",
-      "spirito",
-      "santo"
+      "grieve",
+      "spirit"
     ]
   },
   {
@@ -243,16 +242,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch17",
-    "title": "The God of Second Chances! It's time to redeem what you've lost. With Pastor Daniele Pesce",
+    "title": "Il Dio delle Seconde Opportunità! è tempo di riscattare ciò che hai perso. Con Past. Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "EB2zAiJCPas",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:35",
     "topics": [
-      "second",
-      "chances",
-      "redeem",
-      "pastor"
+      "seconde",
+      "opportunita",
+      "tempo",
+      "riscattare",
+      "perso"
     ]
   },
   {
@@ -275,15 +275,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch19",
-    "title": "Non ignorare più lo Spirito Santo in te! | Maria Pesce",
-    "category": "Fede",
+    "title": "Don't ignore the Holy Spirit within you anymore! | Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "JkOJqPfUuHU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:14",
     "topics": [
-      "ignorare",
-      "spirito",
-      "santo"
+      "ignore",
+      "spirit",
+      "within",
+      "anymore"
     ]
   },
   {
@@ -317,18 +318,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch22",
-    "title": "When Faith pushes you beyond your limits. Life-changing preaching. | Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Quando la Fede ti spinge oltre i tuoi limiti. Predicazione che trasforma. | Daniele Pesce",
+    "category": "Fede",
     "youtubeId": "uV1r06iiRBA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:13:36",
     "topics": [
-      "faith",
-      "pushes",
-      "beyond",
-      "limits",
-      "changing",
-      "preaching"
+      "quando",
+      "spinge",
+      "oltre",
+      "limiti",
+      "predicazione",
+      "trasforma"
     ]
   },
   {
@@ -547,18 +548,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch37",
-    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
+    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
-      "spirito",
       "jezebel",
-      "opera",
-      "identificarlo",
-      "cacciarlo",
-      "fuori"
+      "spirit",
+      "works",
+      "identify",
+      "banish"
     ]
   },
   {

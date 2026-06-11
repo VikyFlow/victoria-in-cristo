@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-06-11T05:01:06.807Z";
+export const channelVideosSyncedAt = "2026-06-11T16:31:27.686Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -47,14 +47,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch04",
-    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
+    "category": "Fede",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "grieve",
-      "spirit"
+      "contristare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -597,32 +598,32 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch40",
-    "title": "Discepoli di Gesù o solo Credenti? Cosa significa essere un Discepolo di Gesù Cristo? Daniele Pesce",
-    "category": "Vangelo",
+    "title": "Disciples of Jesus or Just Believers? What does it mean to be a Disciple of Jesus Christ? Daniele...",
+    "category": "Crescita Spirituale",
     "youtubeId": "n28Of544MBE",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "34:43",
     "topics": [
-      "discepoli",
-      "credenti",
-      "significa",
-      "essere",
-      "discepolo",
-      "cristo"
+      "disciples",
+      "jesus",
+      "believers",
+      "disciple",
+      "christ"
     ]
   },
   {
     "id": "ch41",
-    "title": "Come identificare i cuori di pace? Come Evangelizzare efficacemente? Con Daniele Pesce",
+    "title": "How to identify hearts of peace? How to evangelize effectively? With Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "lvnc9tRN0uM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:31",
     "topics": [
-      "identificare",
-      "cuori",
-      "evangelizzare",
-      "efficacemente"
+      "identify",
+      "hearts",
+      "peace",
+      "evangelize",
+      "effectively"
     ]
   },
   {

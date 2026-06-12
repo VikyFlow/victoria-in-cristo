@@ -1,6 +1,7 @@
 import { FormEvent, useState } from "react";
 import { motion } from "framer-motion";
 import { Mail, Send, Sparkles } from "lucide-react";
+import storyPhoto from "../../IMG_5622.jpg";
 
 const storyParagraphs = [
   "Sono qui per dirti che c'è un motivo alla tua esistenza.\nLa tua vita è preziosa.",
@@ -66,7 +67,7 @@ export function MyStoryPage() {
 
           <motion.div initial={{ opacity: 0, scale: 0.96 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.55, delay: 0.08 }} className="relative mx-auto w-full max-w-sm sm:max-w-md lg:max-w-none">
             <div className="overflow-hidden rounded-lg border border-white/10 bg-white/5 shadow-[0_24px_80px_rgba(0,0,0,0.32)]">
-              <img src="/my-story-photo.jpg" alt="Victoria" className="aspect-[4/5] h-full w-full object-cover object-center" />
+              <img src={storyPhoto} alt="Victoria" className="aspect-[4/5] h-full w-full object-cover object-[center_18%]" />
             </div>
             <div className="relative z-10 mx-3 -mt-8 rounded-lg border border-gold/30 bg-[#fbf7ef] p-4 text-ink shadow-[0_18px_60px_rgba(0,0,0,0.18)] sm:absolute sm:-bottom-5 sm:left-8 sm:right-8 sm:mx-0 sm:mt-0">
               <p className="text-sm font-black uppercase tracking-[0.16em] text-gold">2021</p>

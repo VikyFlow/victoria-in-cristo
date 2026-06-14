@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-06-13T14:29:59.188Z";
+export const channelVideosSyncedAt = "2026-06-14T05:11:19.218Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -101,17 +101,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch08",
-    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "veramente",
-      "chiesa",
+      "church",
+      "really",
       "ekklesia",
-      "corpo",
-      "cristo"
+      "christ"
     ]
   },
   {
@@ -130,35 +129,30 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "Perché non riesco a CAMBIARE?. Decisioni RADICALI. Con Leonardo Bertoncello. Ministero SiamoUno",
+    "title": "Why Can't I Change?. RADICAL Decisions. With Leonardo Bertoncello. Ministry of We Are One",
     "category": "Crescita Spirituale",
     "youtubeId": "t8YMuWAJyW4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "38:10",
     "topics": [
-      "perche",
-      "riesco",
-      "cambiare",
-      "decisioni",
-      "radicali",
+      "change",
+      "radical",
+      "decisions",
       "leonardo",
       "bertoncello",
-      "ministero"
+      "ministry"
     ]
   },
   {
     "id": "ch11",
-    "title": "Non scappare dalle prove e dai processi, Dio si glorificherà. con Daniele Pesce",
-    "category": "Pace e Ansia",
+    "title": "Don't run away from trials and trials, God will be glorified. with Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "FNdSjxK4JmI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "46:44",
     "topics": [
-      "scappare",
-      "dalle",
-      "prove",
-      "processi",
-      "glorifichera"
+      "trials",
+      "glorified"
     ]
   },
   {
@@ -178,16 +172,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch13",
-    "title": "La potenza della PRESENZA DI DIO. La Sua presenza cambia tutto! | Daniele Pesce",
+    "title": "The Power of God's Presence. His Presence Changes Everything! | Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "GtOM6X8EyEU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "54:27",
     "topics": [
-      "potenza",
-      "presenza",
-      "cambia",
-      "tutto"
+      "power",
+      "presence",
+      "changes",
+      "everything"
     ]
   },
   {
@@ -246,35 +240,31 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch18",
-    "title": "Il Dio delle Seconde Opportunità! è tempo di riscattare ciò che hai perso. Con Past. Daniele Pesce",
+    "title": "The God of Second Chances! It's time to redeem what you've lost. With Pastor Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "EB2zAiJCPas",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:35",
     "topics": [
-      "seconde",
-      "opportunita",
-      "tempo",
-      "riscattare",
-      "perso"
+      "second",
+      "chances",
+      "redeem",
+      "pastor"
     ]
   },
   {
     "id": "ch19",
-    "title": "\"Morire a se stessi: la CHIAVE nascosta per vivere nella volontà di Dio. con Leonardo Bertoncello",
-    "category": "Scopo della Vita",
+    "title": "\"Dying to Self: The Hidden Key to Living in God's Will.\" with Leonardo Bertoncello",
+    "category": "Crescita Spirituale",
     "youtubeId": "EEeNj_uVTno",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:14",
     "topics": [
-      "morire",
-      "stessi",
-      "chiave",
-      "nascosta",
-      "vivere",
-      "nella",
-      "volonta",
-      "leonardo"
+      "dying",
+      "hidden",
+      "living",
+      "leonardo",
+      "bertoncello"
     ]
   },
   {
@@ -322,18 +312,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch23",
-    "title": "Quando la Fede ti spinge oltre i tuoi limiti. Predicazione che trasforma. | Daniele Pesce",
-    "category": "Fede",
+    "title": "When Faith pushes you beyond your limits. Life-changing preaching. | Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "uV1r06iiRBA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:13:36",
     "topics": [
-      "quando",
-      "spinge",
-      "oltre",
-      "limiti",
-      "predicazione",
-      "trasforma"
+      "faith",
+      "pushes",
+      "beyond",
+      "limits",
+      "changing",
+      "preaching"
     ]
   },
   {
@@ -427,17 +417,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch30",
-    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "potenza",
-      "vangelo",
-      "regno",
-      "cristiani",
-      "equipaggiati"
+      "power",
+      "gospel",
+      "kingdom",
+      "equipped",
+      "christians"
     ]
   },
   {
@@ -537,16 +527,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch37",
-    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "water",
-      "baptism",
-      "christ",
-      "really"
+      "battesimo",
+      "acqua",
+      "cristo",
+      "significa",
+      "veramente"
     ]
   },
   {
@@ -713,17 +704,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch49",
-    "title": "COME VIVERE IL RISVEGLIO DELLO SPIRITO SANTO! Podcast con Daniele e Maria Pesce",
-    "category": "Fede",
+    "title": "HOW TO EXPERIENCE THE AWAKENING OF THE HOLY SPIRIT! Podcast with Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "NY-PxtZZzrk",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "40:31",
     "topics": [
-      "vivere",
-      "risveglio",
-      "dello",
-      "spirito",
-      "santo",
+      "experience",
+      "awakening",
+      "spirit",
       "podcast"
     ]
   },

@@ -8,8 +8,6 @@ import type {
   Video,
   LearningPath,
   NewsletterSubscriber,
-  BibleBook,
-  BibleVerse,
 } from "../types/content";
 import { articles as mockArticles, users as mockUsers, feelings as mockFeelings } from "../data/mockData";
 
@@ -25,11 +23,13 @@ const isConfigured = () =>
 const usersKey = "nsqpc_users";
 const sessionKey = "nsqpc_session";
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+type Row = Record<string, any>;
+
 export const supabaseService = {
   // ======================== AUTH ========================
   async login(email: string, password: string): Promise<User | null> {
     if (!isConfigured()) {
-      // fallback localStorage
       const users = readStorage<User[]>(usersKey, mockUsers);
       const found = users.find((u) => u.email === email && u.password === password);
       if (!found) return null;
@@ -40,7 +40,6 @@ export const supabaseService = {
     const { data, error } = await supabase.auth.signInWithPassword({ email, password });
     if (error || !data.user) return null;
 
-    // recupera profilo dalla tabella users
     const { data: profile } = await supabase
       .from("users")
       .select("*")
@@ -48,15 +47,16 @@ export const supabaseService = {
       .single();
 
     if (!profile) {
-      // se non esiste, crealo
       const { data: newProfile } = await supabase
         .from("users")
-        .insert({
-          id: data.user.id,
-          name: data.user.email?.split("@")[0] ?? "Utente",
-          email: data.user.email ?? "",
-          role: "user",
-        })
+        .insert([
+          {
+            id: data.user.id,
+            name: data.user.email?.split("@")[0] ?? "Utente",
+            email: data.user.email ?? "",
+            role: "user",
+          },
+        ])
         .select()
         .single();
 
@@ -90,15 +90,16 @@ export const supabaseService = {
     const { data, error } = await supabase.auth.signUp({ email, password });
     if (error || !data.user) return null;
 
-    // crea profilo nella tabella users
     const { data: profile } = await supabase
       .from("users")
-      .insert({
-        id: data.user.id,
-        name,
-        email,
-        role: "user",
-      })
+      .insert([
+        {
+          id: data.user.id,
+          name,
+          email,
+          role: "user",
+        },
+      ])
       .select()
       .single();
 
@@ -217,7 +218,7 @@ export const supabaseService = {
 
     const { data } = await supabase
       .from("articles")
-      .insert(mapArticleForDB(article))
+      .insert([mapArticleForDB(article)])
       .select()
       .single();
     return data ? mapArticleFromDB(data) : article;
@@ -263,10 +264,9 @@ export const supabaseService = {
   async subscribe(name: string, email: string, consent: boolean): Promise<NewsletterSubscriber> {
     if (!isConfigured()) return localService.subscribe(name, email, consent);
 
-    const subscriber = { name, email, consent };
     const { data } = await supabase
       .from("newsletter_subscribers")
-      .insert(subscriber)
+      .insert([{ name, email, consent }])
       .select()
       .single();
 
@@ -276,7 +276,6 @@ export const supabaseService = {
   // ======================== STORAGE (immagini) ========================
   async uploadImage(file: File, bucket = "images"): Promise<string | null> {
     if (!isConfigured()) {
-      // fallback: return URL locale
       return URL.createObjectURL(file);
     }
 
@@ -305,12 +304,12 @@ export const supabaseService = {
 };
 
 // ======================== MAPPER ========================
-function mapUserFromDB(row: Record<string, unknown>): User {
+function mapUserFromDB(row: Row): User {
   return {
     id: row.id as string,
     name: row.name as string,
     email: row.email as string,
-    password: "", // non esposta dal DB
+    password: "",
     role: row.role as "user" | "admin",
     favoriteArticleIds: (row.favorite_article_ids ?? []) as string[],
     favoriteVerseIds: (row.favorite_verse_ids ?? []) as string[],
@@ -320,7 +319,7 @@ function mapUserFromDB(row: Record<string, unknown>): User {
   };
 }
 
-function mapUserForDB(user: User): Record<string, unknown> {
+function mapUserForDB(user: User): Row {
   return {
     name: user.name,
     email: user.email,
@@ -333,7 +332,7 @@ function mapUserForDB(user: User): Record<string, unknown> {
   };
 }
 
-function mapArticleFromDB(row: Record<string, unknown>): Article {
+function mapArticleFromDB(row: Row): Article {
   return {
     id: row.id as string,
     title: row.title as string,
@@ -352,7 +351,7 @@ function mapArticleFromDB(row: Record<string, unknown>): Article {
   };
 }
 
-function mapArticleForDB(article: Article): Record<string, unknown> {
+function mapArticleForDB(article: Article): Row {
   return {
     title: article.title,
     slug: article.slug,
@@ -370,7 +369,7 @@ function mapArticleForDB(article: Article): Record<string, unknown> {
   };
 }
 
-function mapFeelingFromDB(row: Record<string, unknown>): Feeling {
+function mapFeelingFromDB(row: Row): Feeling {
   return {
     id: row.id as string,
     label: row.label as string,
@@ -385,7 +384,7 @@ function mapFeelingFromDB(row: Record<string, unknown>): Feeling {
   };
 }
 
-function mapVideoFromDB(row: Record<string, unknown>): Video {
+function mapVideoFromDB(row: Row): Video {
   return {
     id: row.id as string,
     title: row.title as string,
@@ -397,7 +396,7 @@ function mapVideoFromDB(row: Record<string, unknown>): Video {
   };
 }
 
-function mapPathFromDB(row: Record<string, unknown>): LearningPath {
+function mapPathFromDB(row: Row): LearningPath {
   return {
     id: row.id as string,
     title: row.title as string,
@@ -408,7 +407,7 @@ function mapPathFromDB(row: Record<string, unknown>): LearningPath {
   };
 }
 
-function mapSubscriberFromDB(row: Record<string, unknown>): NewsletterSubscriber {
+function mapSubscriberFromDB(row: Row): NewsletterSubscriber {
   return {
     id: row.id as string,
     name: row.name as string,

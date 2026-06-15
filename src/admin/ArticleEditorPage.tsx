@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 import { Navigate, useNavigate, useParams } from "react-router-dom";
 import { Save } from "lucide-react";
 import { categories, tags } from "../data/mockData";
-import { useLocalContent } from "../hooks/useLocalContent";
+import { useContent } from "../hooks/useContent";
 import type { Article, ContentStatus } from "../types/content";
 
 const emptyArticle: Article = {
@@ -26,7 +26,7 @@ const emptyArticle: Article = {
 export function ArticleEditorPage() {
   const { id } = useParams();
   const navigate = useNavigate();
-  const { articles, saveArticle } = useLocalContent();
+  const { articles, saveArticle } = useContent();
   const existing = articles.find((article) => article.id === id);
   const [article, setArticle] = useState<Article>(() => id === "nuovo" || !id ? { ...emptyArticle, id: crypto.randomUUID() } : existing ?? emptyArticle);
   const [slugTouched, setSlugTouched] = useState(Boolean(existing?.slug));
@@ -43,14 +43,14 @@ export function ArticleEditorPage() {
     setArticle((current) => ({ ...current, [key]: value }));
   }
 
-  function submit(event: FormEvent<HTMLFormElement>) {
+  async function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    saveArticle(article);
+    await saveArticle(article);
     navigate("/admin");
   }
 
-  function saveWithStatus(status: ContentStatus) {
-    saveArticle({ ...article, status });
+  async function saveWithStatus(status: ContentStatus) {
+    await saveArticle({ ...article, status });
     navigate("/admin");
   }
 

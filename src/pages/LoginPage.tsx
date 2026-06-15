@@ -10,17 +10,18 @@ export function LoginPage() {
 
   if (user) return <Navigate to={user.role === "admin" ? "/admin" : "/area-utente"} replace />;
 
-  function submit(event: FormEvent<HTMLFormElement>) {
+  async function submit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
+    setError("");
     const form = new FormData(event.currentTarget);
     const email = String(form.get("email"));
     const password = String(form.get("password"));
-    const ok = mode === "login" ? login(email, password) : register(String(form.get("name")), email, password);
+    const ok = await (mode === "login" ? login(email, password) : register(String(form.get("name")), email, password));
     if (!ok) {
       setError(mode === "login" ? "Credenziali non valide." : "Email gia registrata.");
       return;
     }
-    navigate("/area-utente");
+    navigate(user?.role === "admin" ? "/admin" : "/area-utente");
   }
 
   return (

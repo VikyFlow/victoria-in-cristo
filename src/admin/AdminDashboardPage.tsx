@@ -1,7 +1,6 @@
 import { Edit, Plus, Trash2 } from "lucide-react";
 import { Link } from "react-router-dom";
-import { useLocalContent } from "../hooks/useLocalContent";
-import { contentService } from "../services/contentService";
+import { useContent } from "../hooks/useContent";
 import { backendAdapters } from "../services/backendAdapters";
 
 const manageSections = [
@@ -14,8 +13,7 @@ const manageSections = [
 ];
 
 export function AdminDashboardPage() {
-  const { articles, deleteArticle } = useLocalContent();
-  const subscribers = contentService.getSubscribers();
+  const { articles, subscribers, deleteArticle } = useContent();
 
   return (
     <section className="px-4 py-8 sm:px-6">
@@ -51,7 +49,7 @@ export function AdminDashboardPage() {
                 </div>
                 <div className="flex gap-2">
                   <Link to={`/admin/articoli/${article.id}`} className="inline-flex items-center gap-2 rounded-full border border-white/10 px-4 py-2 text-sm font-bold text-warm/70 hover:text-gold"><Edit size={16} /> Modifica</Link>
-                  <button onClick={() => deleteArticle(article.id)} className="inline-flex items-center gap-2 rounded-full border border-red-300/20 px-4 py-2 text-sm font-bold text-red-200 hover:bg-red-400/10"><Trash2 size={16} /> Elimina</button>
+                  <button onClick={async () => { await deleteArticle(article.id); }} className="inline-flex items-center gap-2 rounded-full border border-red-300/20 px-4 py-2 text-sm font-bold text-red-200 hover:bg-red-400/10"><Trash2 size={16} /> Elimina</button>
                 </div>
               </div>
             ))}

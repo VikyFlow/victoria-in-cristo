@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-06-28T14:18:16.210Z";
+export const channelVideosSyncedAt = "2026-06-29T05:01:44.044Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -35,14 +35,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch03",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
@@ -574,31 +575,33 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch39",
-    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "water",
-      "baptism",
-      "christ",
-      "really"
+      "battesimo",
+      "acqua",
+      "cristo",
+      "significa",
+      "veramente"
     ]
   },
   {
     "id": "ch40",
-    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
+    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
+      "spirito",
       "jezebel",
-      "spirit",
-      "works",
-      "identify",
-      "banish"
+      "opera",
+      "identificarlo",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {

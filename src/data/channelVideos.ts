@@ -1,21 +1,23 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-07-06T15:55:53.986Z";
+export const channelVideosSyncedAt = "2026-07-07T04:18:32.651Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "false",
-      "spirits",
+      "falsi",
+      "spiriti",
       "kundalini",
-      "spirit"
+      "vieni",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -77,25 +79,30 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch06",
-    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirit"
+      "spirito",
+      "paura",
+      "opera",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {
     "id": "ch07",
-    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
+    "category": "Fede",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "grieve",
-      "spirit"
+      "contristare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -130,16 +137,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "church",
-      "really",
+      "veramente",
+      "chiesa",
       "ekklesia",
-      "christ"
+      "corpo",
+      "cristo"
     ]
   },
   {
@@ -652,17 +660,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch44",
-    "title": "How to identify hearts of peace? How to evangelize effectively? With Daniele Pesce",
+    "title": "Come identificare i cuori di pace? Come Evangelizzare efficacemente? Con Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "lvnc9tRN0uM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:31",
     "topics": [
-      "identify",
-      "hearts",
-      "peace",
-      "evangelize",
-      "effectively"
+      "identificare",
+      "cuori",
+      "evangelizzare",
+      "efficacemente"
     ]
   },
   {

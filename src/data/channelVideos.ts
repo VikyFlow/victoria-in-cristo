@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-07-10T15:04:33.809Z";
+export const channelVideosSyncedAt = "2026-07-11T03:45:31.338Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -50,14 +50,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch04",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
@@ -92,29 +93,26 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch07",
-    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirito",
-      "paura",
-      "opera",
-      "cacciarlo",
-      "fuori"
+      "spirit"
     ]
   },
   {
     "id": "ch08",
-    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
+    "category": "Fede",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "grieve",
-      "spirit"
+      "contristare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -302,17 +300,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch21",
-    "title": "Il Dio delle Seconde Opportunità! è tempo di riscattare ciò che hai perso. Con Past. Daniele Pesce",
+    "title": "The God of Second Chances! It's time to redeem what you've lost. With Pastor Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "EB2zAiJCPas",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:35",
     "topics": [
-      "seconde",
-      "opportunita",
-      "tempo",
-      "riscattare",
-      "perso"
+      "second",
+      "chances",
+      "redeem",
+      "pastor"
     ]
   },
   {

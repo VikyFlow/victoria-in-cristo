@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-07-11T13:57:01.644Z";
+export const channelVideosSyncedAt = "2026-07-12T04:01:25.569Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -21,16 +21,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch02",
-    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "false",
-      "spirits",
+      "falsi",
+      "spiriti",
       "kundalini",
-      "spirit"
+      "vieni",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -77,33 +79,29 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch06",
-    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
-    "category": "Vangelo",
+    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "spiriti",
-      "ancestrali",
-      "distruggi",
-      "patti",
-      "seguono",
-      "famiglia"
+      "ancestral",
+      "spirits",
+      "break",
+      "covenants",
+      "following",
+      "family"
     ]
   },
   {
     "id": "ch07",
-    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirito",
-      "paura",
-      "opera",
-      "cacciarlo",
-      "fuori"
+      "spirit"
     ]
   },
   {
@@ -609,17 +607,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch41",
-    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
+    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
+      "spirito",
       "jezebel",
-      "spirit",
-      "works",
-      "identify",
-      "banish"
+      "opera",
+      "identificarlo",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {

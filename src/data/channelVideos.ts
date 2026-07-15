@@ -1,25 +1,24 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-07-15T03:39:18.045Z";
+export const channelVideosSyncedAt = "2026-07-15T14:13:27.678Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "ULTIMI TEMPI. Terremoti, guerre e falsi profeti. Rimaniamo in Cristo. con il pastore Daniele Pesce",
-    "category": "Vangelo",
+    "title": "END TIMES. Earthquakes, wars, and false prophets. Let us remain in Christ. with Pastor Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "hjAEVszcN38",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:42",
     "topics": [
-      "ultimi",
-      "tempi",
-      "terremoti",
-      "guerre",
-      "falsi",
-      "profeti",
-      "rimaniamo",
-      "cristo"
+      "times",
+      "earthquakes",
+      "false",
+      "prophets",
+      "remain",
+      "christ",
+      "pastor"
     ]
   },
   {
@@ -70,15 +69,14 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
+    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "tornare",
-      "primo",
-      "amore"
+      "return",
+      "first"
     ]
   },
   {
@@ -99,18 +97,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch07",
-    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "ancestral",
-      "spirits",
-      "break",
-      "covenants",
-      "following",
-      "family"
+      "spiriti",
+      "ancestrali",
+      "distruggi",
+      "patti",
+      "seguono",
+      "famiglia"
     ]
   },
   {

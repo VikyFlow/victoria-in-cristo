@@ -1,24 +1,25 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-07-19T03:58:40.163Z";
+export const channelVideosSyncedAt = "2026-07-19T13:56:06.292Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "END TIMES. Earthquakes, wars, and false prophets. Let us remain in Christ. with Pastor Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "ULTIMI TEMPI. Terremoti, guerre e falsi profeti. Rimaniamo in Cristo. con il pastore Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "hjAEVszcN38",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:42",
     "topics": [
-      "times",
-      "earthquakes",
-      "false",
-      "prophets",
-      "remain",
-      "christ",
-      "pastor"
+      "ultimi",
+      "tempi",
+      "terremoti",
+      "guerre",
+      "falsi",
+      "profeti",
+      "rimaniamo",
+      "cristo"
     ]
   },
   {
@@ -67,31 +68,28 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
+    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "tornare",
-      "primo",
-      "amore"
+      "return",
+      "first"
     ]
   },
   {
     "id": "ch06",
-    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
-    "category": "Fede",
+    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "contro",
-      "spirito",
-      "potenza",
-      "prendi",
-      "autorita",
-      "santo"
+      "against",
+      "spirit",
+      "power",
+      "authority"
     ]
   },
   {
@@ -214,17 +212,14 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch15",
-    "title": "Non scappare dalle prove e dai processi, Dio si glorificherà. con Daniele Pesce",
-    "category": "Pace e Ansia",
+    "title": "Don't run away from trials and trials, God will be glorified. with Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "FNdSjxK4JmI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "46:44",
     "topics": [
-      "scappare",
-      "dalle",
-      "prove",
-      "processi",
-      "glorifichera"
+      "trials",
+      "glorified"
     ]
   },
   {
@@ -499,17 +494,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch34",
-    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "power",
-      "gospel",
-      "kingdom",
-      "equipped",
-      "christians"
+      "potenza",
+      "vangelo",
+      "regno",
+      "cristiani",
+      "equipaggiati"
     ]
   },
   {

@@ -1,25 +1,24 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-07-19T13:56:06.292Z";
+export const channelVideosSyncedAt = "2026-07-20T04:07:29.540Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "ULTIMI TEMPI. Terremoti, guerre e falsi profeti. Rimaniamo in Cristo. con il pastore Daniele Pesce",
-    "category": "Vangelo",
+    "title": "END TIMES. Earthquakes, wars, and false prophets. Let us remain in Christ. with Pastor Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "hjAEVszcN38",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:42",
     "topics": [
-      "ultimi",
-      "tempi",
-      "terremoti",
-      "guerre",
-      "falsi",
-      "profeti",
-      "rimaniamo",
-      "cristo"
+      "times",
+      "earthquakes",
+      "false",
+      "prophets",
+      "remain",
+      "christ",
+      "pastor"
     ]
   },
   {
@@ -68,14 +67,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
@@ -212,14 +212,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch15",
-    "title": "Don't run away from trials and trials, God will be glorified. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Non scappare dalle prove e dai processi, Dio si glorificherà. con Daniele Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "FNdSjxK4JmI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "46:44",
     "topics": [
-      "trials",
-      "glorified"
+      "scappare",
+      "dalle",
+      "prove",
+      "processi",
+      "glorifichera"
     ]
   },
   {
@@ -619,18 +622,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch42",
-    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
+    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
-      "spirito",
       "jezebel",
-      "opera",
-      "identificarlo",
-      "cacciarlo",
-      "fuori"
+      "spirit",
+      "works",
+      "identify",
+      "banish"
     ]
   },
   {

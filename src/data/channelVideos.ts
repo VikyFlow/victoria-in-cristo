@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-07-21T14:26:02.154Z";
+export const channelVideosSyncedAt = "2026-07-22T03:50:18.918Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -38,16 +38,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch03",
-    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "false",
-      "spirits",
+      "falsi",
+      "spiriti",
       "kundalini",
-      "spirit"
+      "vieni",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -67,14 +69,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
@@ -124,15 +127,14 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch09",
-    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
-    "category": "Fede",
+    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "contristare",
-      "spirito",
-      "santo"
+      "grieve",
+      "spirit"
     ]
   },
   {
@@ -215,14 +217,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch15",
-    "title": "Don't run away from trials and trials, God will be glorified. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Non scappare dalle prove e dai processi, Dio si glorificherà. con Daniele Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "FNdSjxK4JmI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "46:44",
     "topics": [
-      "trials",
-      "glorified"
+      "scappare",
+      "dalle",
+      "prove",
+      "processi",
+      "glorifichera"
     ]
   },
   {
@@ -243,16 +248,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch17",
-    "title": "The Power of God's Presence. His Presence Changes Everything! | Daniele Pesce",
+    "title": "La potenza della PRESENZA DI DIO. La Sua presenza cambia tutto! | Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "GtOM6X8EyEU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "54:27",
     "topics": [
-      "power",
-      "presence",
-      "changes",
-      "everything"
+      "potenza",
+      "presenza",
+      "cambia",
+      "tutto"
     ]
   },
   {
@@ -317,16 +322,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch22",
-    "title": "The God of Second Chances! It's time to redeem what you've lost. With Pastor Daniele Pesce",
+    "title": "Il Dio delle Seconde Opportunità! è tempo di riscattare ciò che hai perso. Con Past. Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "EB2zAiJCPas",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:35",
     "topics": [
-      "second",
-      "chances",
-      "redeem",
-      "pastor"
+      "seconde",
+      "opportunita",
+      "tempo",
+      "riscattare",
+      "perso"
     ]
   },
   {

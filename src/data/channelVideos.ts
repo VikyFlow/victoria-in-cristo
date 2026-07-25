@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-07-24T14:15:56.718Z";
+export const channelVideosSyncedAt = "2026-07-25T03:41:35.424Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -211,14 +211,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch15",
-    "title": "Don't run away from trials and trials, God will be glorified. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Non scappare dalle prove e dai processi, Dio si glorificherà. con Daniele Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "FNdSjxK4JmI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "46:44",
     "topics": [
-      "trials",
-      "glorified"
+      "scappare",
+      "dalle",
+      "prove",
+      "processi",
+      "glorifichera"
     ]
   },
   {
@@ -618,18 +621,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch42",
-    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
+    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
-      "spirito",
       "jezebel",
-      "opera",
-      "identificarlo",
-      "cacciarlo",
-      "fuori"
+      "spirit",
+      "works",
+      "identify",
+      "banish"
     ]
   },
   {

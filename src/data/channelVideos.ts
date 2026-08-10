@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-08-09T13:18:00.801Z";
+export const channelVideosSyncedAt = "2026-08-10T02:36:46.657Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -17,32 +17,32 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch02",
-    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
+    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "jesus",
-      "siamo",
-      "ministry"
+      "ministero",
+      "siamo"
     ]
   },
   {
     "id": "ch03",
-    "title": "END TIMES. Earthquakes, wars, and false prophets. Let us remain in Christ. with Pastor Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "ULTIMI TEMPI. Terremoti, guerre e falsi profeti. Rimaniamo in Cristo. con il pastore Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "hjAEVszcN38",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:42",
     "topics": [
-      "times",
-      "earthquakes",
-      "false",
-      "prophets",
-      "remain",
-      "christ",
-      "pastor"
+      "ultimi",
+      "tempi",
+      "terremoti",
+      "guerre",
+      "falsi",
+      "profeti",
+      "rimaniamo",
+      "cristo"
     ]
   },
   {
@@ -62,16 +62,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "false",
-      "spirits",
+      "falsi",
+      "spiriti",
       "kundalini",
-      "spirit"
+      "vieni",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -135,29 +137,26 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirito",
-      "paura",
-      "opera",
-      "cacciarlo",
-      "fuori"
+      "spirit"
     ]
   },
   {
     "id": "ch11",
-    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
+    "category": "Fede",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "grieve",
-      "spirit"
+      "contristare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -192,31 +191,31 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch14",
-    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "veramente",
-      "chiesa",
+      "church",
+      "really",
       "ekklesia",
-      "corpo",
-      "cristo"
+      "christ"
     ]
   },
   {
     "id": "ch15",
-    "title": "The price of a SHORTCUT! What haste is stealing from you. Maria Pesce",
+    "title": "Il prezzo di una SCORCIATOIA! Quello che la fretta ti sta rubando. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "k9T7OCPPc_c",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "38:07",
     "topics": [
-      "price",
-      "shortcut",
-      "haste",
-      "stealing"
+      "prezzo",
+      "scorciatoia",
+      "quello",
+      "fretta",
+      "rubando"
     ]
   },
   {
@@ -254,31 +253,32 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch18",
-    "title": "WOMEN healed and free! You have a calling to the KINGDOM of God. With Maria Pesce, \"Women's Confe...",
-    "category": "Crescita Spirituale",
+    "title": "DONNE guarite e libere! Hai una chiamata per il REGNO di Dio. con Maria Pesce \"Conferenza Donne\"",
+    "category": "Vangelo",
     "youtubeId": "OuS-U93TcU0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:42",
     "topics": [
-      "women",
-      "healed",
-      "calling",
-      "kingdom",
-      "confe"
+      "donne",
+      "guarite",
+      "libere",
+      "chiamata",
+      "regno",
+      "conferenza"
     ]
   },
   {
     "id": "ch19",
-    "title": "The Power of God's Presence. His Presence Changes Everything! | Daniele Pesce",
+    "title": "La potenza della PRESENZA DI DIO. La Sua presenza cambia tutto! | Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "GtOM6X8EyEU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "54:27",
     "topics": [
-      "power",
-      "presence",
-      "changes",
-      "everything"
+      "potenza",
+      "presenza",
+      "cambia",
+      "tutto"
     ]
   },
   {
@@ -343,16 +343,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch24",
-    "title": "The God of Second Chances! It's time to redeem what you've lost. With Pastor Daniele Pesce",
+    "title": "Il Dio delle Seconde Opportunità! è tempo di riscattare ciò che hai perso. Con Past. Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "EB2zAiJCPas",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:35",
     "topics": [
-      "second",
-      "chances",
-      "redeem",
-      "pastor"
+      "seconde",
+      "opportunita",
+      "tempo",
+      "riscattare",
+      "perso"
     ]
   },
   {

@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-08-10T13:47:31.300Z";
+export const channelVideosSyncedAt = "2026-08-11T02:29:51.694Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -62,16 +62,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "false",
-      "spirits",
+      "falsi",
+      "spiriti",
       "kundalini",
-      "spirit"
+      "vieni",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -91,14 +93,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch07",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
@@ -148,14 +151,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch11",
-    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
+    "category": "Fede",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "grieve",
-      "spirit"
+      "contristare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -648,17 +652,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch44",
-    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
+    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
+      "spirito",
       "jezebel",
-      "spirit",
-      "works",
-      "identify",
-      "banish"
+      "opera",
+      "identificarlo",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {
@@ -697,18 +702,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch47",
-    "title": "Discepoli di Gesù o solo Credenti? Cosa significa essere un Discepolo di Gesù Cristo? Daniele Pesce",
-    "category": "Vangelo",
+    "title": "Disciples of Jesus or Just Believers? What does it mean to be a Disciple of Jesus Christ? Daniele...",
+    "category": "Crescita Spirituale",
     "youtubeId": "n28Of544MBE",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "34:43",
     "topics": [
-      "discepoli",
-      "credenti",
-      "significa",
-      "essere",
-      "discepolo",
-      "cristo"
+      "disciples",
+      "jesus",
+      "believers",
+      "disciple",
+      "christ"
     ]
   },
   {

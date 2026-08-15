@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-08-15T01:51:51.181Z";
+export const channelVideosSyncedAt = "2026-08-15T13:01:03.916Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -37,15 +37,14 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch03",
-    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
+    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "jesus",
-      "siamo",
-      "ministry"
+      "ministero",
+      "siamo"
     ]
   },
   {
@@ -127,34 +126,32 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch09",
-    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
-    "category": "Fede",
+    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "contro",
-      "spirito",
-      "potenza",
-      "prendi",
-      "autorita",
-      "santo"
+      "against",
+      "spirit",
+      "power",
+      "authority"
     ]
   },
   {
     "id": "ch10",
-    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
-    "category": "Vangelo",
+    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "spiriti",
-      "ancestrali",
-      "distruggi",
-      "patti",
-      "seguono",
-      "famiglia"
+      "ancestral",
+      "spirits",
+      "break",
+      "covenants",
+      "following",
+      "family"
     ]
   },
   {
@@ -217,17 +214,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch15",
-    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "veramente",
-      "chiesa",
+      "church",
+      "really",
       "ekklesia",
-      "corpo",
-      "cristo"
+      "christ"
     ]
   },
   {

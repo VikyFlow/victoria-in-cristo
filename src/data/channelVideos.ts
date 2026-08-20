@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-08-20T01:53:41.357Z";
+export const channelVideosSyncedAt = "2026-08-20T13:13:31.589Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -68,15 +68,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
-    "category": "Crescita Spirituale",
+    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
+    "category": "Vangelo",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "obedience",
-      "gospel",
-      "kingdom",
+      "ubbidienza",
+      "pieno",
+      "vangelo",
+      "regno",
       "nausica",
       "valle"
     ]
@@ -127,58 +128,59 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch09",
-    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
-    "category": "Fede",
+    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "contro",
-      "spirito",
-      "potenza",
-      "prendi",
-      "autorita",
-      "santo"
+      "against",
+      "spirit",
+      "power",
+      "authority"
     ]
   },
   {
     "id": "ch10",
-    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
-    "category": "Vangelo",
+    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "spiriti",
-      "ancestrali",
-      "distruggi",
-      "patti",
-      "seguono",
-      "famiglia"
+      "ancestral",
+      "spirits",
+      "break",
+      "covenants",
+      "following",
+      "family"
     ]
   },
   {
     "id": "ch11",
-    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirit"
+      "spirito",
+      "paura",
+      "opera",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {
     "id": "ch12",
-    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
-    "category": "Fede",
+    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "contristare",
-      "spirito",
-      "santo"
+      "grieve",
+      "spirit"
     ]
   },
   {
@@ -213,16 +215,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch15",
-    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "church",
-      "really",
+      "veramente",
+      "chiesa",
       "ekklesia",
-      "christ"
+      "corpo",
+      "cristo"
     ]
   },
   {
@@ -398,15 +401,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch27",
-    "title": "Non ignorare più lo Spirito Santo in te! | Maria Pesce",
-    "category": "Fede",
+    "title": "Don't ignore the Holy Spirit within you anymore! | Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "JkOJqPfUuHU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:14",
     "topics": [
-      "ignorare",
-      "spirito",
-      "santo"
+      "ignore",
+      "spirit",
+      "within",
+      "anymore"
     ]
   },
   {
@@ -440,18 +444,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch30",
-    "title": "Quando la Fede ti spinge oltre i tuoi limiti. Predicazione che trasforma. | Daniele Pesce",
-    "category": "Fede",
+    "title": "When Faith pushes you beyond your limits. Life-changing preaching. | Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "uV1r06iiRBA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:13:36",
     "topics": [
-      "quando",
-      "spinge",
-      "oltre",
-      "limiti",
-      "predicazione",
-      "trasforma"
+      "faith",
+      "pushes",
+      "beyond",
+      "limits",
+      "changing",
+      "preaching"
     ]
   },
   {
@@ -545,17 +549,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch37",
-    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "potenza",
-      "vangelo",
-      "regno",
-      "cristiani",
-      "equipaggiati"
+      "power",
+      "gospel",
+      "kingdom",
+      "equipped",
+      "christians"
     ]
   },
   {
@@ -670,17 +674,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch45",
-    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
+    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
+      "spirito",
       "jezebel",
-      "spirit",
-      "works",
-      "identify",
-      "banish"
+      "opera",
+      "identificarlo",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {

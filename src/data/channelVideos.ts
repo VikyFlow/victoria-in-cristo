@@ -1,51 +1,53 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-08-21T13:13:24.134Z";
+export const channelVideosSyncedAt = "2026-08-22T01:52:40.822Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "Knowing your NEW IDENTITY in Christ makes you FREE. With Leonardo Bertoncello",
+    "title": "Conoscere la tua NUOVA IDENTITÀ in Cristo ti rende LIBERO. Con Leonardo Bertoncello",
     "category": "Identita",
     "youtubeId": "F9K05HtgzoI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "35:12",
     "topics": [
-      "knowing",
-      "identity",
-      "christ",
-      "makes",
+      "conoscere",
+      "nuova",
+      "identita",
+      "cristo",
+      "rende",
+      "libero",
       "leonardo",
       "bertoncello"
     ]
   },
   {
     "id": "ch02",
-    "title": "How to Overcome Disappointments in Christ!... The Key to Living in Freedom.",
-    "category": "Crescita Spirituale",
+    "title": "Come vincere le delusioni in Cristo!... La chiave per vivere in libertà.",
+    "category": "Vangelo",
     "youtubeId": "bQXcixFjISA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "42:57",
     "topics": [
-      "overcome",
-      "disappointments",
-      "christ",
-      "living",
-      "freedom"
+      "vincere",
+      "delusioni",
+      "cristo",
+      "chiave",
+      "vivere",
+      "liberta"
     ]
   },
   {
     "id": "ch03",
-    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
+    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "jesus",
-      "siamo",
-      "ministry"
+      "ministero",
+      "siamo"
     ]
   },
   {
@@ -68,16 +70,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
-    "category": "Vangelo",
+    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
+    "category": "Crescita Spirituale",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "ubbidienza",
-      "pieno",
-      "vangelo",
-      "regno",
+      "obedience",
+      "gospel",
+      "kingdom",
       "nausica",
       "valle"
     ]
@@ -115,28 +116,31 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch08",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
     "id": "ch09",
-    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
+    "category": "Fede",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "against",
-      "spirit",
-      "power",
-      "authority"
+      "contro",
+      "spirito",
+      "potenza",
+      "prendi",
+      "autorita",
+      "santo"
     ]
   },
   {
@@ -215,16 +219,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch15",
-    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "church",
-      "really",
+      "veramente",
+      "chiesa",
       "ekklesia",
-      "christ"
+      "corpo",
+      "cristo"
     ]
   },
   {
@@ -721,17 +726,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch48",
-    "title": "Disciples of Jesus or Just Believers? What does it mean to be a Disciple of Jesus Christ? Daniele...",
-    "category": "Crescita Spirituale",
+    "title": "Discepoli di Gesù o solo Credenti? Cosa significa essere un Discepolo di Gesù Cristo? Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "n28Of544MBE",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "34:43",
     "topics": [
-      "disciples",
-      "jesus",
-      "believers",
-      "disciple",
-      "christ"
+      "discepoli",
+      "credenti",
+      "significa",
+      "essere",
+      "discepolo",
+      "cristo"
     ]
   },
   {

@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-08-31T19:08:51.707Z";
+export const channelVideosSyncedAt = "2026-09-01T05:16:20.273Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -96,43 +96,46 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch07",
-    "title": "The Holy Spirit doesn't just make you a child... He makes you a servant of God! - with Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Lo Spirito Santo non ti rende solo figlio... ti rende servo di Dio! - con Maria Pesce",
+    "category": "Identita",
     "youtubeId": "oIR1IWyWMno",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "30:27",
     "topics": [
-      "spirit",
-      "doesn",
-      "child",
-      "makes",
-      "servant"
+      "spirito",
+      "santo",
+      "rende",
+      "figlio",
+      "servo"
     ]
   },
   {
     "id": "ch08",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
     "id": "ch09",
-    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
+    "category": "Fede",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "against",
-      "spirit",
-      "power",
-      "authority"
+      "contro",
+      "spirito",
+      "potenza",
+      "prendi",
+      "autorita",
+      "santo"
     ]
   },
   {
@@ -287,16 +290,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch20",
-    "title": "La potenza della PRESENZA DI DIO. La Sua presenza cambia tutto! | Daniele Pesce",
+    "title": "The Power of God's Presence. His Presence Changes Everything! | Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "GtOM6X8EyEU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "54:27",
     "topics": [
-      "potenza",
-      "presenza",
-      "cambia",
-      "tutto"
+      "power",
+      "presence",
+      "changes",
+      "everything"
     ]
   },
   {
@@ -651,31 +654,33 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch44",
-    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "water",
-      "baptism",
-      "christ",
-      "really"
+      "battesimo",
+      "acqua",
+      "cristo",
+      "significa",
+      "veramente"
     ]
   },
   {
     "id": "ch45",
-    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
+    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
+      "spirito",
       "jezebel",
-      "spirit",
-      "works",
-      "identify",
-      "banish"
+      "opera",
+      "identificarlo",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {

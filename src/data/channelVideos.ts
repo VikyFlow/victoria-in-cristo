@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-09-03T16:29:51.551Z";
+export const channelVideosSyncedAt = "2026-09-04T04:39:53.599Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -82,18 +82,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch06",
-    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "falsi",
-      "spiriti",
+      "false",
+      "spirits",
       "kundalini",
-      "vieni",
-      "spirito",
-      "santo"
+      "spirit"
     ]
   },
   {
@@ -139,33 +137,29 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
-    "category": "Vangelo",
+    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "spiriti",
-      "ancestrali",
-      "distruggi",
-      "patti",
-      "seguono",
-      "famiglia"
+      "ancestral",
+      "spirits",
+      "break",
+      "covenants",
+      "following",
+      "family"
     ]
   },
   {
     "id": "ch11",
-    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirito",
-      "paura",
-      "opera",
-      "cacciarlo",
-      "fuori"
+      "spirit"
     ]
   },
   {
@@ -442,18 +436,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch30",
-    "title": "When Faith pushes you beyond your limits. Life-changing preaching. | Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Quando la Fede ti spinge oltre i tuoi limiti. Predicazione che trasforma. | Daniele Pesce",
+    "category": "Fede",
     "youtubeId": "uV1r06iiRBA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:13:36",
     "topics": [
-      "faith",
-      "pushes",
-      "beyond",
-      "limits",
-      "changing",
-      "preaching"
+      "quando",
+      "spinge",
+      "oltre",
+      "limiti",
+      "predicazione",
+      "trasforma"
     ]
   },
   {

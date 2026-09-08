@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-09-08T04:45:08.655Z";
+export const channelVideosSyncedAt = "2026-09-08T16:41:46.444Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [

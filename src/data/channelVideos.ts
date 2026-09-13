@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-09-12T15:35:34.053Z";
+export const channelVideosSyncedAt = "2026-09-13T04:54:33.866Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -182,14 +182,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch13",
-    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
+    "category": "Fede",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "grieve",
-      "spirit"
+      "contristare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -349,16 +350,13 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch24",
-    "title": "LIBRO DI SESSO PER I BAMBINI? Chiameranno il MALE bene. Maria Pesce",
+    "title": "A SEX BOOK FOR CHILDREN? They'll call EVIL good. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "1DK7RU8vBeA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "29:28",
     "topics": [
-      "libro",
-      "sesso",
-      "bambini",
-      "chiameranno"
+      "children"
     ]
   },
   {
@@ -668,32 +666,32 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch45",
-    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "water",
-      "baptism",
-      "christ",
-      "really"
+      "battesimo",
+      "acqua",
+      "cristo",
+      "significa",
+      "veramente"
     ]
   },
   {
     "id": "ch46",
-    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
+    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
-      "spirito",
       "jezebel",
-      "opera",
-      "identificarlo",
-      "cacciarlo",
-      "fuori"
+      "spirit",
+      "works",
+      "identify",
+      "banish"
     ]
   },
   {
@@ -748,17 +746,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch50",
-    "title": "How to identify hearts of peace? How to evangelize effectively? With Daniele Pesce",
+    "title": "Come identificare i cuori di pace? Come Evangelizzare efficacemente? Con Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "lvnc9tRN0uM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:31",
     "topics": [
-      "identify",
-      "hearts",
-      "peace",
-      "evangelize",
-      "effectively"
+      "identificare",
+      "cuori",
+      "evangelizzare",
+      "efficacemente"
     ]
   }
 ];

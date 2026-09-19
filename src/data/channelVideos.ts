@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-09-19T04:42:37.806Z";
+export const channelVideosSyncedAt = "2026-09-19T15:55:33.902Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -39,33 +39,36 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch03",
-    "title": "Knowing your NEW IDENTITY in Christ makes you FREE. With Leonardo Bertoncello",
+    "title": "Conoscere la tua NUOVA IDENTITÀ in Cristo ti rende LIBERO. Con Leonardo Bertoncello",
     "category": "Identita",
     "youtubeId": "F9K05HtgzoI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "35:12",
     "topics": [
-      "knowing",
-      "identity",
-      "christ",
-      "makes",
+      "conoscere",
+      "nuova",
+      "identita",
+      "cristo",
+      "rende",
+      "libero",
       "leonardo",
       "bertoncello"
     ]
   },
   {
     "id": "ch04",
-    "title": "How to Overcome Disappointments in Christ!... The Key to Living in Freedom.",
-    "category": "Crescita Spirituale",
+    "title": "Come vincere le delusioni in Cristo!... La chiave per vivere in libertà.",
+    "category": "Vangelo",
     "youtubeId": "bQXcixFjISA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "42:57",
     "topics": [
-      "overcome",
-      "disappointments",
-      "christ",
-      "living",
-      "freedom"
+      "vincere",
+      "delusioni",
+      "cristo",
+      "chiave",
+      "vivere",
+      "liberta"
     ]
   },
   {
@@ -100,16 +103,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch07",
-    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
-    "category": "Vangelo",
+    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
+    "category": "Crescita Spirituale",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "ubbidienza",
-      "pieno",
-      "vangelo",
-      "regno",
+      "obedience",
+      "gospel",
+      "kingdom",
       "nausica",
       "valle"
     ]
@@ -147,14 +149,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
@@ -236,16 +239,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch16",
-    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
-    "category": "Crescita Spirituale",
+    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "carry",
-      "burdens",
-      "learn",
-      "distinguish"
+      "portare",
+      "impara",
+      "distinguere"
     ]
   },
   {
@@ -583,33 +585,33 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch39",
-    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "power",
-      "gospel",
-      "kingdom",
-      "equipped",
-      "christians"
+      "potenza",
+      "vangelo",
+      "regno",
+      "cristiani",
+      "equipaggiati"
     ]
   },
   {
     "id": "ch40",
-    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "spiriti",
-      "familiari",
-      "distruggendo",
-      "maledizioni",
-      "generazionali",
-      "vangelo"
+      "familiar",
+      "spirits",
+      "breaking",
+      "generational",
+      "curses",
+      "gospel"
     ]
   },
   {

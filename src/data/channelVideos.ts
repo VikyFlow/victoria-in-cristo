@@ -1,22 +1,22 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-09-21T18:13:17.453Z";
+export const channelVideosSyncedAt = "2026-09-22T05:05:03.102Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
+    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "remember",
-      "battle",
-      "against",
-      "flesh",
-      "blood"
+      "ricorda",
+      "battaglia",
+      "contro",
+      "sangue",
+      "carne"
     ]
   },
   {
@@ -73,14 +73,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
+    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "ministero",
-      "siamo"
+      "jesus",
+      "siamo",
+      "ministry"
     ]
   },
   {
@@ -103,15 +104,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch07",
-    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
-    "category": "Crescita Spirituale",
+    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
+    "category": "Vangelo",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "obedience",
-      "gospel",
-      "kingdom",
+      "ubbidienza",
+      "pieno",
+      "vangelo",
+      "regno",
       "nausica",
       "valle"
     ]
@@ -149,14 +151,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
@@ -193,17 +196,13 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch13",
-    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirito",
-      "paura",
-      "opera",
-      "cacciarlo",
-      "fuori"
+      "spirit"
     ]
   },
   {
@@ -585,17 +584,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch39",
-    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "potenza",
-      "vangelo",
-      "regno",
-      "cristiani",
-      "equipaggiati"
+      "power",
+      "gospel",
+      "kingdom",
+      "equipped",
+      "christians"
     ]
   },
   {
@@ -759,17 +758,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch50",
-    "title": "Disciples of Jesus or Just Believers? What does it mean to be a Disciple of Jesus Christ? Daniele...",
-    "category": "Crescita Spirituale",
+    "title": "Discepoli di Gesù o solo Credenti? Cosa significa essere un Discepolo di Gesù Cristo? Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "n28Of544MBE",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "34:43",
     "topics": [
-      "disciples",
-      "jesus",
-      "believers",
-      "disciple",
-      "christ"
+      "discepoli",
+      "credenti",
+      "significa",
+      "essere",
+      "discepolo",
+      "cristo"
     ]
   }
 ];

@@ -1,22 +1,22 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-09-25T17:16:35.960Z";
+export const channelVideosSyncedAt = "2026-09-26T05:06:09.565Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
+    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "remember",
-      "battle",
-      "against",
-      "flesh",
-      "blood"
+      "ricorda",
+      "battaglia",
+      "contro",
+      "sangue",
+      "carne"
     ]
   },
   {
@@ -178,18 +178,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch12",
-    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "ancestral",
-      "spirits",
-      "break",
-      "covenants",
-      "following",
-      "family"
+      "spiriti",
+      "ancestrali",
+      "distruggi",
+      "patti",
+      "seguono",
+      "famiglia"
     ]
   },
   {
@@ -267,16 +267,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch18",
-    "title": "The price of a SHORTCUT! What haste is stealing from you. Maria Pesce",
+    "title": "Il prezzo di una SCORCIATOIA! Quello che la fretta ti sta rubando. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "k9T7OCPPc_c",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "38:07",
     "topics": [
-      "price",
-      "shortcut",
-      "haste",
-      "stealing"
+      "prezzo",
+      "scorciatoia",
+      "quello",
+      "fretta",
+      "rubando"
     ]
   },
   {

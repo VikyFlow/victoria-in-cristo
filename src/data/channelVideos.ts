@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-09-30T18:00:47.725Z";
+export const channelVideosSyncedAt = "2026-10-01T06:04:07.998Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -39,16 +39,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch03",
-    "title": "Knowing your NEW IDENTITY in Christ makes you FREE. With Leonardo Bertoncello",
+    "title": "Conoscere la tua NUOVA IDENTITÀ in Cristo ti rende LIBERO. Con Leonardo Bertoncello",
     "category": "Identita",
     "youtubeId": "F9K05HtgzoI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "35:12",
     "topics": [
-      "knowing",
-      "identity",
-      "christ",
-      "makes",
+      "conoscere",
+      "nuova",
+      "identita",
+      "cristo",
+      "rende",
+      "libero",
       "leonardo",
       "bertoncello"
     ]
@@ -176,18 +178,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch12",
-    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "ancestral",
-      "spirits",
-      "break",
-      "covenants",
-      "following",
-      "family"
+      "spiriti",
+      "ancestrali",
+      "distruggi",
+      "patti",
+      "seguono",
+      "famiglia"
     ]
   },
   {
@@ -266,17 +268,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch18",
-    "title": "Il prezzo di una SCORCIATOIA! Quello che la fretta ti sta rubando. Maria Pesce",
+    "title": "The price of a SHORTCUT! What haste is stealing from you. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "k9T7OCPPc_c",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "38:07",
     "topics": [
-      "prezzo",
-      "scorciatoia",
-      "quello",
-      "fretta",
-      "rubando"
+      "price",
+      "shortcut",
+      "haste",
+      "stealing"
     ]
   },
   {
@@ -479,18 +480,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch32",
-    "title": "Quando la Fede ti spinge oltre i tuoi limiti. Predicazione che trasforma. | Daniele Pesce",
-    "category": "Fede",
+    "title": "When Faith pushes you beyond your limits. Life-changing preaching. | Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "uV1r06iiRBA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:13:36",
     "topics": [
-      "quando",
-      "spinge",
-      "oltre",
-      "limiti",
-      "predicazione",
-      "trasforma"
+      "faith",
+      "pushes",
+      "beyond",
+      "limits",
+      "changing",
+      "preaching"
     ]
   },
   {
@@ -599,18 +600,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch40",
-    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "familiar",
-      "spirits",
-      "breaking",
-      "generational",
-      "curses",
-      "gospel"
+      "spiriti",
+      "familiari",
+      "distruggendo",
+      "maledizioni",
+      "generazionali",
+      "vangelo"
     ]
   },
   {

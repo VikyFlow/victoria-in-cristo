@@ -1,22 +1,22 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-05T05:48:52.536Z";
+export const channelVideosSyncedAt = "2026-10-05T20:35:49.629Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
+    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "ricorda",
-      "battaglia",
-      "contro",
-      "sangue",
-      "carne"
+      "remember",
+      "battle",
+      "against",
+      "flesh",
+      "blood"
     ]
   },
   {
@@ -103,16 +103,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch07",
-    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
-    "category": "Vangelo",
+    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
+    "category": "Crescita Spirituale",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "ubbidienza",
-      "pieno",
-      "vangelo",
-      "regno",
+      "obedience",
+      "gospel",
+      "kingdom",
       "nausica",
       "valle"
     ]
@@ -254,17 +253,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch17",
-    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "veramente",
-      "chiesa",
+      "church",
+      "really",
       "ekklesia",
-      "corpo",
-      "cristo"
+      "christ"
     ]
   },
   {
@@ -602,18 +600,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch40",
-    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "spiriti",
-      "familiari",
-      "distruggendo",
-      "maledizioni",
-      "generazionali",
-      "vangelo"
+      "familiar",
+      "spirits",
+      "breaking",
+      "generational",
+      "curses",
+      "gospel"
     ]
   },
   {

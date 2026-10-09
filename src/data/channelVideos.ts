@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-08T18:52:54.424Z";
+export const channelVideosSyncedAt = "2026-10-09T06:16:20.439Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -57,29 +57,31 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch04",
-    "title": "How to Overcome Disappointments in Christ!... The Key to Living in Freedom.",
-    "category": "Crescita Spirituale",
+    "title": "Come vincere le delusioni in Cristo!... La chiave per vivere in libertà.",
+    "category": "Vangelo",
     "youtubeId": "bQXcixFjISA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "42:57",
     "topics": [
-      "overcome",
-      "disappointments",
-      "christ",
-      "living",
-      "freedom"
+      "vincere",
+      "delusioni",
+      "cristo",
+      "chiave",
+      "vivere",
+      "liberta"
     ]
   },
   {
     "id": "ch05",
-    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
+    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "ministero",
-      "siamo"
+      "jesus",
+      "siamo",
+      "ministry"
     ]
   },
   {
@@ -161,18 +163,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch11",
-    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
-    "category": "Fede",
+    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "contro",
-      "spirito",
-      "potenza",
-      "prendi",
-      "autorita",
-      "santo"
+      "against",
+      "spirit",
+      "power",
+      "authority"
     ]
   },
   {
@@ -315,32 +315,31 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch21",
-    "title": "DONNE guarite e libere! Hai una chiamata per il REGNO di Dio. con Maria Pesce \"Conferenza Donne\"",
-    "category": "Vangelo",
+    "title": "WOMEN healed and free! You have a calling to the KINGDOM of God. With Maria Pesce, \"Women's Confe...",
+    "category": "Crescita Spirituale",
     "youtubeId": "OuS-U93TcU0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:42",
     "topics": [
-      "donne",
-      "guarite",
-      "libere",
-      "chiamata",
-      "regno",
-      "conferenza"
+      "women",
+      "healed",
+      "calling",
+      "kingdom",
+      "confe"
     ]
   },
   {
     "id": "ch22",
-    "title": "La potenza della PRESENZA DI DIO. La Sua presenza cambia tutto! | Daniele Pesce",
+    "title": "The Power of God's Presence. His Presence Changes Everything! | Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "GtOM6X8EyEU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "54:27",
     "topics": [
-      "potenza",
-      "presenza",
-      "cambia",
-      "tutto"
+      "power",
+      "presence",
+      "changes",
+      "everything"
     ]
   },
   {
@@ -585,33 +584,33 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch39",
-    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "power",
-      "gospel",
-      "kingdom",
-      "equipped",
-      "christians"
+      "potenza",
+      "vangelo",
+      "regno",
+      "cristiani",
+      "equipaggiati"
     ]
   },
   {
     "id": "ch40",
-    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "spiriti",
-      "familiari",
-      "distruggendo",
-      "maledizioni",
-      "generazionali",
-      "vangelo"
+      "familiar",
+      "spirits",
+      "breaking",
+      "generational",
+      "curses",
+      "gospel"
     ]
   },
   {
@@ -695,17 +694,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch46",
-    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "battesimo",
-      "acqua",
-      "cristo",
-      "significa",
-      "veramente"
+      "water",
+      "baptism",
+      "christ",
+      "really"
     ]
   },
   {

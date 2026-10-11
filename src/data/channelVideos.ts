@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-10T17:21:58.967Z";
+export const channelVideosSyncedAt = "2026-10-11T05:55:13.323Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -437,15 +437,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch29",
-    "title": "Non ignorare più lo Spirito Santo in te! | Maria Pesce",
-    "category": "Fede",
+    "title": "Don't ignore the Holy Spirit within you anymore! | Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "JkOJqPfUuHU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:14",
     "topics": [
-      "ignorare",
-      "spirito",
-      "santo"
+      "ignore",
+      "spirit",
+      "within",
+      "anymore"
     ]
   },
   {
@@ -678,32 +679,32 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch45",
-    "title": "The SECRET to IDENTIFYING and SLAYING YOUR GIANTS! Open your eyes Church! With Maria Pesce",
+    "title": "Il SEGRETO per IDENTIFICARE e UCCIDERE I TUOI GIGANTI! Apri gli occhi Chiesa! Con Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "TsnVrnqMKbY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "42:01",
     "topics": [
-      "secret",
-      "identifying",
-      "slaying",
-      "giants",
-      "church"
+      "segreto",
+      "identificare",
+      "uccidere",
+      "giganti",
+      "occhi",
+      "chiesa"
     ]
   },
   {
     "id": "ch46",
-    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "battesimo",
-      "acqua",
-      "cristo",
-      "significa",
-      "veramente"
+      "water",
+      "baptism",
+      "christ",
+      "really"
     ]
   },
   {

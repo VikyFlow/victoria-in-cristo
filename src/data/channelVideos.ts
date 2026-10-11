@@ -1,22 +1,22 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-11T05:55:13.323Z";
+export const channelVideosSyncedAt = "2026-10-11T17:42:11.577Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
+    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "remember",
-      "battle",
-      "against",
-      "flesh",
-      "blood"
+      "ricorda",
+      "battaglia",
+      "contro",
+      "sangue",
+      "carne"
     ]
   },
   {
@@ -39,18 +39,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch03",
-    "title": "Conoscere la tua NUOVA IDENTITÀ in Cristo ti rende LIBERO. Con Leonardo Bertoncello",
+    "title": "Knowing your NEW IDENTITY in Christ makes you FREE. With Leonardo Bertoncello",
     "category": "Identita",
     "youtubeId": "F9K05HtgzoI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "35:12",
     "topics": [
-      "conoscere",
-      "nuova",
-      "identita",
-      "cristo",
-      "rende",
-      "libero",
+      "knowing",
+      "identity",
+      "christ",
+      "makes",
       "leonardo",
       "bertoncello"
     ]
@@ -149,15 +147,14 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
+    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "tornare",
-      "primo",
-      "amore"
+      "return",
+      "first"
     ]
   },
   {
@@ -437,16 +434,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch29",
-    "title": "Don't ignore the Holy Spirit within you anymore! | Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Non ignorare più lo Spirito Santo in te! | Maria Pesce",
+    "category": "Fede",
     "youtubeId": "JkOJqPfUuHU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:14",
     "topics": [
-      "ignore",
-      "spirit",
-      "within",
-      "anymore"
+      "ignorare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -600,18 +596,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch40",
-    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "familiar",
-      "spirits",
-      "breaking",
-      "generational",
-      "curses",
-      "gospel"
+      "spiriti",
+      "familiari",
+      "distruggendo",
+      "maledizioni",
+      "generazionali",
+      "vangelo"
     ]
   },
   {
@@ -695,16 +691,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch46",
-    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "water",
-      "baptism",
-      "christ",
-      "really"
+      "battesimo",
+      "acqua",
+      "cristo",
+      "significa",
+      "veramente"
     ]
   },
   {

@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-23T17:13:44.620Z";
+export const channelVideosSyncedAt = "2026-10-24T04:44:09.840Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -21,17 +21,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch02",
-    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
+    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "remember",
-      "battle",
-      "against",
-      "flesh",
-      "blood"
+      "ricorda",
+      "battaglia",
+      "contro",
+      "sangue",
+      "carne"
     ]
   },
   {
@@ -88,15 +88,14 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch06",
-    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
+    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "jesus",
-      "siamo",
-      "ministry"
+      "ministero",
+      "siamo"
     ]
   },
   {
@@ -134,18 +133,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch09",
-    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "falsi",
-      "spiriti",
+      "false",
+      "spirits",
       "kundalini",
-      "vieni",
-      "spirito",
-      "santo"
+      "spirit"
     ]
   },
   {
@@ -194,18 +191,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch13",
-    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "ancestral",
-      "spirits",
-      "break",
-      "covenants",
-      "following",
-      "family"
+      "spiriti",
+      "ancestrali",
+      "distruggi",
+      "patti",
+      "seguono",
+      "famiglia"
     ]
   },
   {
@@ -251,15 +248,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch17",
-    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
+    "category": "Crescita Spirituale",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "portare",
-      "impara",
-      "distinguere"
+      "carry",
+      "burdens",
+      "learn",
+      "distinguish"
     ]
   },
   {
@@ -279,16 +277,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch19",
-    "title": "The price of a SHORTCUT! What haste is stealing from you. Maria Pesce",
+    "title": "Il prezzo di una SCORCIATOIA! Quello che la fretta ti sta rubando. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "k9T7OCPPc_c",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "38:07",
     "topics": [
-      "price",
-      "shortcut",
-      "haste",
-      "stealing"
+      "prezzo",
+      "scorciatoia",
+      "quello",
+      "fretta",
+      "rubando"
     ]
   },
   {
@@ -326,18 +325,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch22",
-    "title": "DONNE guarite e libere! Hai una chiamata per il REGNO di Dio. con Maria Pesce \"Conferenza Donne\"",
-    "category": "Vangelo",
+    "title": "WOMEN healed and free! You have a calling to the KINGDOM of God. With Maria Pesce, \"Women's Confe...",
+    "category": "Crescita Spirituale",
     "youtubeId": "OuS-U93TcU0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:42",
     "topics": [
-      "donne",
-      "guarite",
-      "libere",
-      "chiamata",
-      "regno",
-      "conferenza"
+      "women",
+      "healed",
+      "calling",
+      "kingdom",
+      "confe"
     ]
   },
   {
@@ -416,17 +414,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch28",
-    "title": "Il Dio delle Seconde Opportunità! è tempo di riscattare ciò che hai perso. Con Past. Daniele Pesce",
+    "title": "The God of Second Chances! It's time to redeem what you've lost. With Pastor Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "EB2zAiJCPas",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:35",
     "topics": [
-      "seconde",
-      "opportunita",
-      "tempo",
-      "riscattare",
-      "perso"
+      "second",
+      "chances",
+      "redeem",
+      "pastor"
     ]
   },
   {
@@ -611,18 +608,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch41",
-    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "familiar",
-      "spirits",
-      "breaking",
-      "generational",
-      "curses",
-      "gospel"
+      "spiriti",
+      "familiari",
+      "distruggendo",
+      "maledizioni",
+      "generazionali",
+      "vangelo"
     ]
   },
   {

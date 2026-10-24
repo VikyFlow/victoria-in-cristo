@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-24T04:44:09.840Z";
+export const channelVideosSyncedAt = "2026-10-24T16:01:39.233Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -21,17 +21,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch02",
-    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
+    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "ricorda",
-      "battaglia",
-      "contro",
-      "sangue",
-      "carne"
+      "remember",
+      "battle",
+      "against",
+      "flesh",
+      "blood"
     ]
   },
   {
@@ -175,45 +175,47 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch12",
-    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
-    "category": "Fede",
+    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "contro",
-      "spirito",
-      "potenza",
-      "prendi",
-      "autorita",
-      "santo"
+      "against",
+      "spirit",
+      "power",
+      "authority"
     ]
   },
   {
     "id": "ch13",
-    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
-    "category": "Vangelo",
+    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "spiriti",
-      "ancestrali",
-      "distruggi",
-      "patti",
-      "seguono",
-      "famiglia"
+      "ancestral",
+      "spirits",
+      "break",
+      "covenants",
+      "following",
+      "family"
     ]
   },
   {
     "id": "ch14",
-    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirit"
+      "spirito",
+      "paura",
+      "opera",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {
@@ -248,16 +250,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch17",
-    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
-    "category": "Crescita Spirituale",
+    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "carry",
-      "burdens",
-      "learn",
-      "distinguish"
+      "portare",
+      "impara",
+      "distinguere"
     ]
   },
   {
@@ -325,17 +326,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch22",
-    "title": "WOMEN healed and free! You have a calling to the KINGDOM of God. With Maria Pesce, \"Women's Confe...",
-    "category": "Crescita Spirituale",
+    "title": "DONNE guarite e libere! Hai una chiamata per il REGNO di Dio. con Maria Pesce \"Conferenza Donne\"",
+    "category": "Vangelo",
     "youtubeId": "OuS-U93TcU0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:42",
     "topics": [
-      "women",
-      "healed",
-      "calling",
-      "kingdom",
-      "confe"
+      "donne",
+      "guarite",
+      "libere",
+      "chiamata",
+      "regno",
+      "conferenza"
     ]
   },
   {
@@ -414,16 +416,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch28",
-    "title": "The God of Second Chances! It's time to redeem what you've lost. With Pastor Daniele Pesce",
+    "title": "Il Dio delle Seconde Opportunità! è tempo di riscattare ciò che hai perso. Con Past. Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "EB2zAiJCPas",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:35",
     "topics": [
-      "second",
-      "chances",
-      "redeem",
-      "pastor"
+      "seconde",
+      "opportunita",
+      "tempo",
+      "riscattare",
+      "perso"
     ]
   },
   {
@@ -608,18 +611,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch41",
-    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "spiriti",
-      "familiari",
-      "distruggendo",
-      "maledizioni",
-      "generazionali",
-      "vangelo"
+      "familiar",
+      "spirits",
+      "breaking",
+      "generational",
+      "curses",
+      "gospel"
     ]
   },
   {

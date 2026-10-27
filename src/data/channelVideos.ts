@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-27T05:12:41.892Z";
+export const channelVideosSyncedAt = "2026-10-27T18:03:19.955Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -68,48 +68,46 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "Conoscere la tua NUOVA IDENTITÀ in Cristo ti rende LIBERO. Con Leonardo Bertoncello",
+    "title": "Knowing your NEW IDENTITY in Christ makes you FREE. With Leonardo Bertoncello",
     "category": "Identita",
     "youtubeId": "F9K05HtgzoI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "35:12",
     "topics": [
-      "conoscere",
-      "nuova",
-      "identita",
-      "cristo",
-      "rende",
-      "libero",
+      "knowing",
+      "identity",
+      "christ",
+      "makes",
       "leonardo",
       "bertoncello"
     ]
   },
   {
     "id": "ch06",
-    "title": "Come vincere le delusioni in Cristo!... La chiave per vivere in libertà.",
-    "category": "Vangelo",
+    "title": "How to Overcome Disappointments in Christ!... The Key to Living in Freedom.",
+    "category": "Crescita Spirituale",
     "youtubeId": "bQXcixFjISA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "42:57",
     "topics": [
-      "vincere",
-      "delusioni",
-      "cristo",
-      "chiave",
-      "vivere",
-      "liberta"
+      "overcome",
+      "disappointments",
+      "christ",
+      "living",
+      "freedom"
     ]
   },
   {
     "id": "ch07",
-    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
+    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "ministero",
-      "siamo"
+      "jesus",
+      "siamo",
+      "ministry"
     ]
   },
   {
@@ -146,46 +144,43 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "falsi",
-      "spiriti",
+      "false",
+      "spirits",
       "kundalini",
-      "vieni",
-      "spirito",
-      "santo"
+      "spirit"
     ]
   },
   {
     "id": "ch11",
-    "title": "Lo Spirito Santo non ti rende solo figlio... ti rende servo di Dio! - con Maria Pesce",
-    "category": "Identita",
+    "title": "The Holy Spirit doesn't just make you a child... He makes you a servant of God! - with Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "oIR1IWyWMno",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "30:27",
     "topics": [
-      "spirito",
-      "santo",
-      "rende",
-      "figlio",
-      "servo"
+      "spirit",
+      "doesn",
+      "child",
+      "makes",
+      "servant"
     ]
   },
   {
     "id": "ch12",
-    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
+    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "tornare",
-      "primo",
-      "amore"
+      "return",
+      "first"
     ]
   },
   {
@@ -204,33 +199,29 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch14",
-    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
-    "category": "Vangelo",
+    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "spiriti",
-      "ancestrali",
-      "distruggi",
-      "patti",
-      "seguono",
-      "famiglia"
+      "ancestral",
+      "spirits",
+      "break",
+      "covenants",
+      "following",
+      "family"
     ]
   },
   {
     "id": "ch15",
-    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirito",
-      "paura",
-      "opera",
-      "cacciarlo",
-      "fuori"
+      "spirit"
     ]
   },
   {
@@ -265,16 +256,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch18",
-    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
-    "category": "Crescita Spirituale",
+    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "carry",
-      "burdens",
-      "learn",
-      "distinguish"
+      "portare",
+      "impara",
+      "distinguere"
     ]
   },
   {
@@ -294,17 +284,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch20",
-    "title": "Il prezzo di una SCORCIATOIA! Quello che la fretta ti sta rubando. Maria Pesce",
+    "title": "The price of a SHORTCUT! What haste is stealing from you. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "k9T7OCPPc_c",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "38:07",
     "topics": [
-      "prezzo",
-      "scorciatoia",
-      "quello",
-      "fretta",
-      "rubando"
+      "price",
+      "shortcut",
+      "haste",
+      "stealing"
     ]
   },
   {
@@ -327,33 +316,29 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch22",
-    "title": "Non scappare dalle prove e dai processi, Dio si glorificherà. con Daniele Pesce",
-    "category": "Pace e Ansia",
+    "title": "Don't run away from trials and trials, God will be glorified. with Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "FNdSjxK4JmI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "46:44",
     "topics": [
-      "scappare",
-      "dalle",
-      "prove",
-      "processi",
-      "glorifichera"
+      "trials",
+      "glorified"
     ]
   },
   {
     "id": "ch23",
-    "title": "DONNE guarite e libere! Hai una chiamata per il REGNO di Dio. con Maria Pesce \"Conferenza Donne\"",
-    "category": "Vangelo",
+    "title": "WOMEN healed and free! You have a calling to the KINGDOM of God. With Maria Pesce, \"Women's Confe...",
+    "category": "Crescita Spirituale",
     "youtubeId": "OuS-U93TcU0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:42",
     "topics": [
-      "donne",
-      "guarite",
-      "libere",
-      "chiamata",
-      "regno",
-      "conferenza"
+      "women",
+      "healed",
+      "calling",
+      "kingdom",
+      "confe"
     ]
   },
   {
@@ -478,16 +463,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch32",
-    "title": "COME MANTENERE LA TUA LIBERTA' IN CRISTO? SII RADICALE! Con Maria Pesce",
-    "category": "Vangelo",
+    "title": "HOW TO MAINTAIN YOUR FREEDOM IN CHRIST? BE RADICAL! With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "13W6KLZewpI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "40:17",
     "topics": [
-      "mantenere",
-      "liberta",
-      "cristo",
-      "radicale"
+      "maintain",
+      "freedom",
+      "christ",
+      "radical"
     ]
   },
   {
@@ -523,18 +508,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch35",
-    "title": "\"ALLARGA I MIEI CONFINI\" LA POTENTE PREGHIERA DI JABES CHE CAMBIERA' LA TUA VITA | Maria Pesce",
-    "category": "Fede",
+    "title": "\"EXPAND MY BOUNDARIES\"—JABEZ'S POWERFUL PRAYER THAT WILL CHANGE YOUR LIFE | Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "3BeRtRWxJWY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:26:48",
     "topics": [
-      "allarga",
-      "confini",
-      "potente",
-      "preghiera",
-      "jabes",
-      "cambiera"
+      "expand",
+      "boundaries",
+      "jabez",
+      "powerful",
+      "prayer",
+      "change"
     ]
   },
   {

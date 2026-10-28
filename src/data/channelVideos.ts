@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-27T18:03:19.955Z";
+export const channelVideosSyncedAt = "2026-10-28T05:50:37.316Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -35,17 +35,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch03",
-    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
+    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "remember",
-      "battle",
-      "against",
-      "flesh",
-      "blood"
+      "ricorda",
+      "battaglia",
+      "contro",
+      "sangue",
+      "carne"
     ]
   },
   {
@@ -68,76 +68,80 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "Knowing your NEW IDENTITY in Christ makes you FREE. With Leonardo Bertoncello",
+    "title": "Conoscere la tua NUOVA IDENTITÀ in Cristo ti rende LIBERO. Con Leonardo Bertoncello",
     "category": "Identita",
     "youtubeId": "F9K05HtgzoI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "35:12",
     "topics": [
-      "knowing",
-      "identity",
-      "christ",
-      "makes",
+      "conoscere",
+      "nuova",
+      "identita",
+      "cristo",
+      "rende",
+      "libero",
       "leonardo",
       "bertoncello"
     ]
   },
   {
     "id": "ch06",
-    "title": "How to Overcome Disappointments in Christ!... The Key to Living in Freedom.",
-    "category": "Crescita Spirituale",
+    "title": "Come vincere le delusioni in Cristo!... La chiave per vivere in libertà.",
+    "category": "Vangelo",
     "youtubeId": "bQXcixFjISA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "42:57",
     "topics": [
-      "overcome",
-      "disappointments",
-      "christ",
-      "living",
-      "freedom"
+      "vincere",
+      "delusioni",
+      "cristo",
+      "chiave",
+      "vivere",
+      "liberta"
     ]
   },
   {
     "id": "ch07",
-    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
+    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "jesus",
-      "siamo",
-      "ministry"
+      "ministero",
+      "siamo"
     ]
   },
   {
     "id": "ch08",
-    "title": "END TIMES. Earthquakes, wars, and false prophets. Let us remain in Christ. with Pastor Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "ULTIMI TEMPI. Terremoti, guerre e falsi profeti. Rimaniamo in Cristo. con il pastore Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "hjAEVszcN38",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:42",
     "topics": [
-      "times",
-      "earthquakes",
-      "false",
-      "prophets",
-      "remain",
-      "christ",
-      "pastor"
+      "ultimi",
+      "tempi",
+      "terremoti",
+      "guerre",
+      "falsi",
+      "profeti",
+      "rimaniamo",
+      "cristo"
     ]
   },
   {
     "id": "ch09",
-    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
-    "category": "Crescita Spirituale",
+    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
+    "category": "Vangelo",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "obedience",
-      "gospel",
-      "kingdom",
+      "ubbidienza",
+      "pieno",
+      "vangelo",
+      "regno",
       "nausica",
       "valle"
     ]
@@ -158,70 +162,77 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch11",
-    "title": "The Holy Spirit doesn't just make you a child... He makes you a servant of God! - with Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Lo Spirito Santo non ti rende solo figlio... ti rende servo di Dio! - con Maria Pesce",
+    "category": "Identita",
     "youtubeId": "oIR1IWyWMno",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "30:27",
     "topics": [
-      "spirit",
-      "doesn",
-      "child",
-      "makes",
-      "servant"
+      "spirito",
+      "santo",
+      "rende",
+      "figlio",
+      "servo"
     ]
   },
   {
     "id": "ch12",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
     "id": "ch13",
-    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
+    "category": "Fede",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "against",
-      "spirit",
-      "power",
-      "authority"
+      "contro",
+      "spirito",
+      "potenza",
+      "prendi",
+      "autorita",
+      "santo"
     ]
   },
   {
     "id": "ch14",
-    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "ancestral",
-      "spirits",
-      "break",
-      "covenants",
-      "following",
-      "family"
+      "spiriti",
+      "ancestrali",
+      "distruggi",
+      "patti",
+      "seguono",
+      "famiglia"
     ]
   },
   {
     "id": "ch15",
-    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirit"
+      "spirito",
+      "paura",
+      "opera",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {
@@ -284,16 +295,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch20",
-    "title": "The price of a SHORTCUT! What haste is stealing from you. Maria Pesce",
+    "title": "Il prezzo di una SCORCIATOIA! Quello che la fretta ti sta rubando. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "k9T7OCPPc_c",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "38:07",
     "topics": [
-      "price",
-      "shortcut",
-      "haste",
-      "stealing"
+      "prezzo",
+      "scorciatoia",
+      "quello",
+      "fretta",
+      "rubando"
     ]
   },
   {
@@ -316,29 +328,33 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch22",
-    "title": "Don't run away from trials and trials, God will be glorified. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Non scappare dalle prove e dai processi, Dio si glorificherà. con Daniele Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "FNdSjxK4JmI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "46:44",
     "topics": [
-      "trials",
-      "glorified"
+      "scappare",
+      "dalle",
+      "prove",
+      "processi",
+      "glorifichera"
     ]
   },
   {
     "id": "ch23",
-    "title": "WOMEN healed and free! You have a calling to the KINGDOM of God. With Maria Pesce, \"Women's Confe...",
-    "category": "Crescita Spirituale",
+    "title": "DONNE guarite e libere! Hai una chiamata per il REGNO di Dio. con Maria Pesce \"Conferenza Donne\"",
+    "category": "Vangelo",
     "youtubeId": "OuS-U93TcU0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:42",
     "topics": [
-      "women",
-      "healed",
-      "calling",
-      "kingdom",
-      "confe"
+      "donne",
+      "guarite",
+      "libere",
+      "chiamata",
+      "regno",
+      "conferenza"
     ]
   },
   {
@@ -450,29 +466,30 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch31",
-    "title": "Non ignorare più lo Spirito Santo in te! | Maria Pesce",
-    "category": "Fede",
+    "title": "Don't ignore the Holy Spirit within you anymore! | Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "JkOJqPfUuHU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:14",
     "topics": [
-      "ignorare",
-      "spirito",
-      "santo"
+      "ignore",
+      "spirit",
+      "within",
+      "anymore"
     ]
   },
   {
     "id": "ch32",
-    "title": "HOW TO MAINTAIN YOUR FREEDOM IN CHRIST? BE RADICAL! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "COME MANTENERE LA TUA LIBERTA' IN CRISTO? SII RADICALE! Con Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "13W6KLZewpI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "40:17",
     "topics": [
-      "maintain",
-      "freedom",
-      "christ",
-      "radical"
+      "mantenere",
+      "liberta",
+      "cristo",
+      "radicale"
     ]
   },
   {
@@ -492,18 +509,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch34",
-    "title": "Quando la Fede ti spinge oltre i tuoi limiti. Predicazione che trasforma. | Daniele Pesce",
-    "category": "Fede",
+    "title": "When Faith pushes you beyond your limits. Life-changing preaching. | Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "uV1r06iiRBA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:13:36",
     "topics": [
-      "quando",
-      "spinge",
-      "oltre",
-      "limiti",
-      "predicazione",
-      "trasforma"
+      "faith",
+      "pushes",
+      "beyond",
+      "limits",
+      "changing",
+      "preaching"
     ]
   },
   {
@@ -612,18 +629,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch42",
-    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "familiar",
-      "spirits",
-      "breaking",
-      "generational",
-      "curses",
-      "gospel"
+      "spiriti",
+      "familiari",
+      "distruggendo",
+      "maledizioni",
+      "generazionali",
+      "vangelo"
     ]
   },
   {
@@ -691,33 +708,31 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch47",
-    "title": "Il SEGRETO per IDENTIFICARE e UCCIDERE I TUOI GIGANTI! Apri gli occhi Chiesa! Con Maria Pesce",
+    "title": "The SECRET to IDENTIFYING and SLAYING YOUR GIANTS! Open your eyes Church! With Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "TsnVrnqMKbY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "42:01",
     "topics": [
-      "segreto",
-      "identificare",
-      "uccidere",
-      "giganti",
-      "occhi",
-      "chiesa"
+      "secret",
+      "identifying",
+      "slaying",
+      "giants",
+      "church"
     ]
   },
   {
     "id": "ch48",
-    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "battesimo",
-      "acqua",
-      "cristo",
-      "significa",
-      "veramente"
+      "water",
+      "baptism",
+      "christ",
+      "really"
     ]
   },
   {

@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-30T05:56:06.828Z";
+export const channelVideosSyncedAt = "2026-10-30T18:03:08.331Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -20,18 +20,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch02",
-    "title": "Benedici le tue afflizioni! Dio usa le prove per formare il carattere di Cristo in te. Daniele Pesce",
-    "category": "Pace e Ansia",
+    "title": "Bless your afflictions! God uses trials to form the character of Christ in you. Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "YLxs__LtdsI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "8:03",
     "topics": [
-      "benedici",
-      "afflizioni",
-      "prove",
-      "formare",
-      "carattere",
-      "cristo"
+      "bless",
+      "afflictions",
+      "trials",
+      "character",
+      "christ"
     ]
   },
   {
@@ -69,16 +68,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "Knowing your NEW IDENTITY in Christ makes you FREE. With Leonardo Bertoncello",
+    "title": "Conoscere la tua NUOVA IDENTITÀ in Cristo ti rende LIBERO. Con Leonardo Bertoncello",
     "category": "Identita",
     "youtubeId": "F9K05HtgzoI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "35:12",
     "topics": [
-      "knowing",
-      "identity",
-      "christ",
-      "makes",
+      "conoscere",
+      "nuova",
+      "identita",
+      "cristo",
+      "rende",
+      "libero",
       "leonardo",
       "bertoncello"
     ]
@@ -131,15 +132,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch09",
-    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
-    "category": "Crescita Spirituale",
+    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
+    "category": "Vangelo",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "obedience",
-      "gospel",
-      "kingdom",
+      "ubbidienza",
+      "pieno",
+      "vangelo",
+      "regno",
       "nausica",
       "valle"
     ]
@@ -190,32 +192,34 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch13",
-    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
+    "category": "Fede",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "against",
-      "spirit",
-      "power",
-      "authority"
+      "contro",
+      "spirito",
+      "potenza",
+      "prendi",
+      "autorita",
+      "santo"
     ]
   },
   {
     "id": "ch14",
-    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "ancestral",
-      "spirits",
-      "break",
-      "covenants",
-      "following",
-      "family"
+      "spiriti",
+      "ancestrali",
+      "distruggi",
+      "patti",
+      "seguono",
+      "famiglia"
     ]
   },
   {
@@ -446,17 +450,20 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch30",
-    "title": "\"Dying to Self: The Hidden Key to Living in God's Will.\" with Leonardo Bertoncello",
-    "category": "Crescita Spirituale",
+    "title": "\"Morire a se stessi: la CHIAVE nascosta per vivere nella volontà di Dio. con Leonardo Bertoncello",
+    "category": "Scopo della Vita",
     "youtubeId": "EEeNj_uVTno",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:14",
     "topics": [
-      "dying",
-      "hidden",
-      "living",
-      "leonardo",
-      "bertoncello"
+      "morire",
+      "stessi",
+      "chiave",
+      "nascosta",
+      "vivere",
+      "nella",
+      "volonta",
+      "leonardo"
     ]
   },
   {
@@ -718,31 +725,33 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch48",
-    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "water",
-      "baptism",
-      "christ",
-      "really"
+      "battesimo",
+      "acqua",
+      "cristo",
+      "significa",
+      "veramente"
     ]
   },
   {
     "id": "ch49",
-    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
+    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
+      "spirito",
       "jezebel",
-      "spirit",
-      "works",
-      "identify",
-      "banish"
+      "opera",
+      "identificarlo",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {

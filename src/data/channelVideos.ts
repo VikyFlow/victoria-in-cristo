@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-31T05:52:33.973Z";
+export const channelVideosSyncedAt = "2026-10-31T17:15:45.771Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -147,16 +147,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "false",
-      "spirits",
+      "falsi",
+      "spiriti",
       "kundalini",
-      "spirit"
+      "vieni",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -205,18 +207,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch14",
-    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
-    "category": "Vangelo",
+    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "spiriti",
-      "ancestrali",
-      "distruggi",
-      "patti",
-      "seguono",
-      "famiglia"
+      "ancestral",
+      "spirits",
+      "break",
+      "covenants",
+      "following",
+      "family"
     ]
   },
   {
@@ -722,33 +724,31 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch48",
-    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "battesimo",
-      "acqua",
-      "cristo",
-      "significa",
-      "veramente"
+      "water",
+      "baptism",
+      "christ",
+      "really"
     ]
   },
   {
     "id": "ch49",
-    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
+    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
-      "spirito",
       "jezebel",
-      "opera",
-      "identificarlo",
-      "cacciarlo",
-      "fuori"
+      "spirit",
+      "works",
+      "identify",
+      "banish"
     ]
   },
   {

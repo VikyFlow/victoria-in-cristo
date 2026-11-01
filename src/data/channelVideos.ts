@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-10-31T17:15:45.771Z";
+export const channelVideosSyncedAt = "2026-11-01T06:16:29.207Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -20,32 +20,33 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch02",
-    "title": "Bless your afflictions! God uses trials to form the character of Christ in you. Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Benedici le tue afflizioni! Dio usa le prove per formare il carattere di Cristo in te. Daniele Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "YLxs__LtdsI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "8:03",
     "topics": [
-      "bless",
-      "afflictions",
-      "trials",
-      "character",
-      "christ"
+      "benedici",
+      "afflizioni",
+      "prove",
+      "formare",
+      "carattere",
+      "cristo"
     ]
   },
   {
     "id": "ch03",
-    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
+    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "ricorda",
-      "battaglia",
-      "contro",
-      "sangue",
-      "carne"
+      "remember",
+      "battle",
+      "against",
+      "flesh",
+      "blood"
     ]
   },
   {
@@ -132,15 +133,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch09",
-    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
-    "category": "Crescita Spirituale",
+    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
+    "category": "Vangelo",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "obedience",
-      "gospel",
-      "kingdom",
+      "ubbidienza",
+      "pieno",
+      "vangelo",
+      "regno",
       "nausica",
       "valle"
     ]
@@ -207,18 +209,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch14",
-    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "ancestral",
-      "spirits",
-      "break",
-      "covenants",
-      "following",
-      "family"
+      "spiriti",
+      "ancestrali",
+      "distruggi",
+      "patti",
+      "seguono",
+      "famiglia"
     ]
   },
   {
@@ -268,15 +270,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch18",
-    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
+    "category": "Crescita Spirituale",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "portare",
-      "impara",
-      "distinguere"
+      "carry",
+      "burdens",
+      "learn",
+      "distinguish"
     ]
   },
   {
@@ -724,16 +727,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch48",
-    "title": "TRUE WATER BAPTISM IN CHRIST. What does it really mean? With Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "IL VERO BATTESIMO IN ACQUA IN CRISTO. Cosa significa veramente? Con Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "ZFh-40pVwkc",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "22:17",
     "topics": [
-      "water",
-      "baptism",
-      "christ",
-      "really"
+      "battesimo",
+      "acqua",
+      "cristo",
+      "significa",
+      "veramente"
     ]
   },
   {

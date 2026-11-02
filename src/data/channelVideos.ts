@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-11-01T17:57:02.127Z";
+export const channelVideosSyncedAt = "2026-11-02T06:18:14.461Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -236,14 +236,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch16",
-    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
+    "category": "Fede",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "grieve",
-      "spirit"
+      "contristare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -265,16 +266,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch18",
-    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
-    "category": "Crescita Spirituale",
+    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "carry",
-      "burdens",
-      "learn",
-      "distinguish"
+      "portare",
+      "impara",
+      "distinguere"
     ]
   },
   {
@@ -294,17 +294,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch20",
-    "title": "Il prezzo di una SCORCIATOIA! Quello che la fretta ti sta rubando. Maria Pesce",
+    "title": "The price of a SHORTCUT! What haste is stealing from you. Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "k9T7OCPPc_c",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "38:07",
     "topics": [
-      "prezzo",
-      "scorciatoia",
-      "quello",
-      "fretta",
-      "rubando"
+      "price",
+      "shortcut",
+      "haste",
+      "stealing"
     ]
   },
   {
@@ -372,17 +371,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch25",
-    "title": "Come Rimanere Uniti a Cristo: Fai della Sua Presenza la Tua Priorità. Maria Pesce",
-    "category": "Vangelo",
+    "title": "How to Stay United with Christ: Make His Presence Your Priority. Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "VcFvHl4CNJg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:18",
     "topics": [
-      "rimanere",
-      "uniti",
-      "cristo",
-      "presenza",
-      "priorita"
+      "united",
+      "christ",
+      "presence",
+      "priority"
     ]
   },
   {
@@ -465,16 +463,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch31",
-    "title": "Don't ignore the Holy Spirit within you anymore! | Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Non ignorare più lo Spirito Santo in te! | Maria Pesce",
+    "category": "Fede",
     "youtubeId": "JkOJqPfUuHU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:14",
     "topics": [
-      "ignore",
-      "spirit",
-      "within",
-      "anymore"
+      "ignorare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -613,17 +610,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch41",
-    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "power",
-      "gospel",
-      "kingdom",
-      "equipped",
-      "christians"
+      "potenza",
+      "vangelo",
+      "regno",
+      "cristiani",
+      "equipaggiati"
     ]
   },
   {

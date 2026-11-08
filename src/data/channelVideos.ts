@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-11-08T06:12:03.956Z";
+export const channelVideosSyncedAt = "2026-11-08T17:57:22.205Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -31,18 +31,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch03",
-    "title": "Benedici le tue afflizioni! Dio usa le prove per formare il carattere di Cristo in te. Daniele Pesce",
-    "category": "Pace e Ansia",
+    "title": "Bless your afflictions! God uses trials to form the character of Christ in you. Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "YLxs__LtdsI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "8:03",
     "topics": [
-      "benedici",
-      "afflizioni",
-      "prove",
-      "formare",
-      "carattere",
-      "cristo"
+      "bless",
+      "afflictions",
+      "trials",
+      "character",
+      "christ"
     ]
   },
   {
@@ -114,14 +113,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch08",
-    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
+    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "ministero",
-      "siamo"
+      "jesus",
+      "siamo",
+      "ministry"
     ]
   },
   {
@@ -144,16 +144,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
-    "category": "Vangelo",
+    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
+    "category": "Crescita Spirituale",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "ubbidienza",
-      "pieno",
-      "vangelo",
-      "regno",
+      "obedience",
+      "gospel",
+      "kingdom",
       "nausica",
       "valle"
     ]
@@ -281,16 +280,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch19",
-    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
-    "category": "Crescita Spirituale",
+    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "carry",
-      "burdens",
-      "learn",
-      "distinguish"
+      "portare",
+      "impara",
+      "distinguere"
     ]
   },
   {
@@ -448,17 +446,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch30",
-    "title": "Il Dio delle Seconde Opportunità! è tempo di riscattare ciò che hai perso. Con Past. Daniele Pesce",
+    "title": "The God of Second Chances! It's time to redeem what you've lost. With Pastor Daniele Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "EB2zAiJCPas",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "57:35",
     "topics": [
-      "seconde",
-      "opportunita",
-      "tempo",
-      "riscattare",
-      "perso"
+      "second",
+      "chances",
+      "redeem",
+      "pastor"
     ]
   },
   {
@@ -643,18 +640,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch43",
-    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "spiriti",
-      "familiari",
-      "distruggendo",
-      "maledizioni",
-      "generazionali",
-      "vangelo"
+      "familiar",
+      "spirits",
+      "breaking",
+      "generational",
+      "curses",
+      "gospel"
     ]
   },
   {

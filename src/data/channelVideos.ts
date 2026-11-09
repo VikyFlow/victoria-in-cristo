@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-11-09T06:45:36.607Z";
+export const channelVideosSyncedAt = "2026-11-09T22:27:29.486Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -47,17 +47,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch04",
-    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
+    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "ricorda",
-      "battaglia",
-      "contro",
-      "sangue",
-      "carne"
+      "remember",
+      "battle",
+      "against",
+      "flesh",
+      "blood"
     ]
   },
   {
@@ -281,15 +281,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch19",
-    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
-    "category": "Pace e Ansia",
+    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
+    "category": "Crescita Spirituale",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "portare",
-      "impara",
-      "distinguere"
+      "carry",
+      "burdens",
+      "learn",
+      "distinguish"
     ]
   },
   {
@@ -752,17 +753,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch50",
-    "title": "THE JEZEBEL SPIRIT. How it works, how to identify it, and how to banish it. With Daniele and Mari...",
+    "title": "LO SPIRITO JEZEBEL. Come opera, come identificarlo e cacciarlo fuori. Con Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "n5MarEljxmM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:03:14",
     "topics": [
+      "spirito",
       "jezebel",
-      "spirit",
-      "works",
-      "identify",
-      "banish"
+      "opera",
+      "identificarlo",
+      "cacciarlo",
+      "fuori"
     ]
   }
 ];

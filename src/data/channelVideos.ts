@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-11-15T06:43:23.383Z";
+export const channelVideosSyncedAt = "2026-11-15T18:55:29.804Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -92,16 +92,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch07",
-    "title": "Knowing your NEW IDENTITY in Christ makes you FREE. With Leonardo Bertoncello",
+    "title": "Conoscere la tua NUOVA IDENTITÀ in Cristo ti rende LIBERO. Con Leonardo Bertoncello",
     "category": "Identita",
     "youtubeId": "F9K05HtgzoI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "35:12",
     "topics": [
-      "knowing",
-      "identity",
-      "christ",
-      "makes",
+      "conoscere",
+      "nuova",
+      "identita",
+      "cristo",
+      "rende",
+      "libero",
       "leonardo",
       "bertoncello"
     ]
@@ -154,15 +156,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch11",
-    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
-    "category": "Crescita Spirituale",
+    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
+    "category": "Vangelo",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "obedience",
-      "gospel",
-      "kingdom",
+      "ubbidienza",
+      "pieno",
+      "vangelo",
+      "regno",
       "nausica",
       "valle"
     ]
@@ -200,45 +203,46 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch14",
-    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
+    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "tornare",
-      "primo",
-      "amore"
+      "return",
+      "first"
     ]
   },
   {
     "id": "ch15",
-    "title": "Against the spirit of the power of the air, take authority and live the Holy Spirit. Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Contro lo spirito della potenza dell'aria, prendi autorità e vivi lo Spirito Santo. Daniele Pesce",
+    "category": "Fede",
     "youtubeId": "pUrDgv9wbT0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:12:08",
     "topics": [
-      "against",
-      "spirit",
-      "power",
-      "authority"
+      "contro",
+      "spirito",
+      "potenza",
+      "prendi",
+      "autorita",
+      "santo"
     ]
   },
   {
     "id": "ch16",
-    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "ancestral",
-      "spirits",
-      "break",
-      "covenants",
-      "following",
-      "family"
+      "spiriti",
+      "ancestrali",
+      "distruggi",
+      "patti",
+      "seguono",
+      "famiglia"
     ]
   },
   {
@@ -302,17 +306,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch21",
-    "title": "Cos'è veramente la CHIESA? EKKLESIA: IL CORPO DI CRISTO. Con Daniele Pesce",
-    "category": "Vangelo",
+    "title": "What is the Church really? EKKLESIA: THE BODY OF CHRIST. With Daniele Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "j0dI1F86wDg",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "52:43",
     "topics": [
-      "veramente",
-      "chiesa",
+      "church",
+      "really",
       "ekklesia",
-      "corpo",
-      "cristo"
+      "christ"
     ]
   },
   {
@@ -650,18 +653,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch44",
-    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "familiar",
-      "spirits",
-      "breaking",
-      "generational",
-      "curses",
-      "gospel"
+      "spiriti",
+      "familiari",
+      "distruggendo",
+      "maledizioni",
+      "generazionali",
+      "vangelo"
     ]
   },
   {

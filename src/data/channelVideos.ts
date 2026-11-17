@@ -1,30 +1,39 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-11-16T22:13:56.804Z";
+export const channelVideosSyncedAt = "2026-11-17T08:01:17.981Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
   {
     "id": "ch01",
-    "title": "Sunday Sermon",
+    "title": "NON SEI RICCO COME PENSI! Il vero significato di \"poveri in spirito\" con Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "TPP5vtA3gG0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:00",
     "topics": [
-      "sunday",
-      "sermon"
+      "ricco",
+      "pensi",
+      "significato",
+      "poveri",
+      "spirito"
     ]
   },
   {
     "id": "ch02",
-    "title": "Torben",
-    "category": "Crescita Spirituale",
+    "title": "La potenza del VANGELO ed il vero discepolato cambieranno la tua vita cristiana. Torben Sondergaard",
+    "category": "Identita",
     "youtubeId": "bUSyjFSP2sM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "59:08",
     "topics": [
-      "torben"
+      "potenza",
+      "vangelo",
+      "discepolato",
+      "cambieranno",
+      "cristiana",
+      "torben",
+      "sondergaard"
     ]
   },
   {
@@ -59,17 +68,17 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "REMEMBER: The battle is NOT against flesh and blood! Maria Pesce",
+    "title": "RICORDA: La battaglia NON è contro sangue e carne! Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "tA2ByNsw32U",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "21:56",
     "topics": [
-      "remember",
-      "battle",
-      "against",
-      "flesh",
-      "blood"
+      "ricorda",
+      "battaglia",
+      "contro",
+      "sangue",
+      "carne"
     ]
   },
   {
@@ -110,17 +119,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch08",
-    "title": "How to Overcome Disappointments in Christ!... The Key to Living in Freedom.",
-    "category": "Crescita Spirituale",
+    "title": "Come vincere le delusioni in Cristo!... La chiave per vivere in libertà.",
+    "category": "Vangelo",
     "youtubeId": "bQXcixFjISA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "42:57",
     "topics": [
-      "overcome",
-      "disappointments",
-      "christ",
-      "living",
-      "freedom"
+      "vincere",
+      "delusioni",
+      "cristo",
+      "chiave",
+      "vivere",
+      "liberta"
     ]
   },
   {
@@ -170,16 +180,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch12",
-    "title": "FALSE NEW AGE SPIRITS, YOGA, AND KUNDALINI. Come Holy Spirit. with Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "FALSI SPIRITI DELLA NEW AGE, YOGA E KUNDALINI. Vieni Spirito Santo. con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "CW8CJZrTIRU",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "44:16",
     "topics": [
-      "false",
-      "spirits",
+      "falsi",
+      "spiriti",
       "kundalini",
-      "spirit"
+      "vieni",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -199,14 +211,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch14",
-    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
+    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "return",
-      "first"
+      "tornare",
+      "primo",
+      "amore"
     ]
   },
   {
@@ -227,42 +240,45 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch16",
-    "title": "ANCESTRAL SPIRITS. Break ancestral covenants following your FAMILY Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "SPIRITI ANCESTRALI. Distruggi patti ancestrali che seguono la tua FAMIGLIA Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "A5DYJJSIO8A",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "53:41",
     "topics": [
-      "ancestral",
-      "spirits",
-      "break",
-      "covenants",
-      "following",
-      "family"
+      "spiriti",
+      "ancestrali",
+      "distruggi",
+      "patti",
+      "seguono",
+      "famiglia"
     ]
   },
   {
     "id": "ch17",
-    "title": "THE SPIRIT OF FEAR. How does it work and how do you cast it out? With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LO SPIRITO DI PAURA. Come opera e come cacciarlo fuori? Con Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "XgwZReMavHQ",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "47:09",
     "topics": [
-      "spirit"
+      "spirito",
+      "paura",
+      "opera",
+      "cacciarlo",
+      "fuori"
     ]
   },
   {
     "id": "ch18",
-    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
-    "category": "Fede",
+    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "contristare",
-      "spirito",
-      "santo"
+      "grieve",
+      "spirit"
     ]
   },
   {
@@ -284,16 +300,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch20",
-    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
-    "category": "Crescita Spirituale",
+    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "carry",
-      "burdens",
-      "learn",
-      "distinguish"
+      "portare",
+      "impara",
+      "distinguere"
     ]
   },
   {
@@ -542,18 +557,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch37",
-    "title": "\"EXPAND MY BOUNDARIES\"—JABEZ'S POWERFUL PRAYER THAT WILL CHANGE YOUR LIFE | Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "\"ALLARGA I MIEI CONFINI\" LA POTENTE PREGHIERA DI JABES CHE CAMBIERA' LA TUA VITA | Maria Pesce",
+    "category": "Fede",
     "youtubeId": "3BeRtRWxJWY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:26:48",
     "topics": [
-      "expand",
-      "boundaries",
-      "jabez",
-      "powerful",
-      "prayer",
-      "change"
+      "allarga",
+      "confini",
+      "potente",
+      "preghiera",
+      "jabes",
+      "cambiera"
     ]
   },
   {

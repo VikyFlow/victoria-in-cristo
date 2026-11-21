@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-11-21T07:18:33.787Z";
+export const channelVideosSyncedAt = "2026-11-21T19:23:30.587Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -17,25 +17,34 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch02",
-    "title": "Sunday Sermon",
+    "title": "NON SEI RICCO COME PENSI! Il vero significato di \"poveri in spirito\" con Daniele e Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "TPP5vtA3gG0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:00",
     "topics": [
-      "sunday",
-      "sermon"
+      "ricco",
+      "pensi",
+      "significato",
+      "poveri",
+      "spirito"
     ]
   },
   {
     "id": "ch03",
-    "title": "Torben",
-    "category": "Crescita Spirituale",
+    "title": "La potenza del VANGELO ed il vero discepolato cambieranno la tua vita cristiana. Torben Sondergaard",
+    "category": "Identita",
     "youtubeId": "bUSyjFSP2sM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "59:08",
     "topics": [
-      "torben"
+      "potenza",
+      "vangelo",
+      "discepolato",
+      "cambieranno",
+      "cristiana",
+      "torben",
+      "sondergaard"
     ]
   },
   {
@@ -54,17 +63,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch05",
-    "title": "Bless your afflictions! God uses trials to form the character of Christ in you. Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Benedici le tue afflizioni! Dio usa le prove per formare il carattere di Cristo in te. Daniele Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "YLxs__LtdsI",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "8:03",
     "topics": [
-      "bless",
-      "afflictions",
-      "trials",
-      "character",
-      "christ"
+      "benedici",
+      "afflizioni",
+      "prove",
+      "formare",
+      "carattere",
+      "cristo"
     ]
   },
   {
@@ -136,15 +146,14 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch10",
-    "title": "Is Jesus your King? With Maria Pesce - Siamo Uno Ministry",
+    "title": "È Gesù il tuo Re? Con Maria Pesce - Ministero Siamo uno",
     "category": "Crescita Spirituale",
     "youtubeId": "hkrf4LIL6B4",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "43:06",
     "topics": [
-      "jesus",
-      "siamo",
-      "ministry"
+      "ministero",
+      "siamo"
     ]
   },
   {
@@ -273,14 +282,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch19",
-    "title": "How NOT to Grieve the Holy Spirit! With Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "Come NON contristare lo SPIRITO SANTO! Con Maria Pesce",
+    "category": "Fede",
     "youtubeId": "xj2OsggBKSY",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "31:48",
     "topics": [
-      "grieve",
-      "spirit"
+      "contristare",
+      "spirito",
+      "santo"
     ]
   },
   {
@@ -649,33 +659,33 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch44",
-    "title": "The Power of the Gospel of the Kingdom. EQUIPPED Christians. With Daniele Pesce",
-    "category": "Crescita Spirituale",
+    "title": "LA POTENZA DEL VANGELO DEL REGNO. Cristiani EQUIPAGGIATI. Con Daniele Pesce",
+    "category": "Vangelo",
     "youtubeId": "gzVL10qdI10",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:07:29",
     "topics": [
-      "power",
-      "gospel",
-      "kingdom",
-      "equipped",
-      "christians"
+      "potenza",
+      "vangelo",
+      "regno",
+      "cristiani",
+      "equipaggiati"
     ]
   },
   {
     "id": "ch45",
-    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "spiriti",
-      "familiari",
-      "distruggendo",
-      "maledizioni",
-      "generazionali",
-      "vangelo"
+      "familiar",
+      "spirits",
+      "breaking",
+      "generational",
+      "curses",
+      "gospel"
     ]
   },
   {

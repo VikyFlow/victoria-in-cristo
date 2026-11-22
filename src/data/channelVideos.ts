@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-11-21T19:23:30.587Z";
+export const channelVideosSyncedAt = "2026-11-22T06:59:28.128Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -32,19 +32,13 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch03",
-    "title": "La potenza del VANGELO ed il vero discepolato cambieranno la tua vita cristiana. Torben Sondergaard",
-    "category": "Identita",
+    "title": "Torben",
+    "category": "Crescita Spirituale",
     "youtubeId": "bUSyjFSP2sM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "59:08",
     "topics": [
-      "potenza",
-      "vangelo",
-      "discepolato",
-      "cambieranno",
-      "cristiana",
-      "torben",
-      "sondergaard"
+      "torben"
     ]
   },
   {
@@ -312,16 +306,15 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch21",
-    "title": "DO NOT Carry Burdens God Did Not Give You. Learn to Distinguish Burdens. with Daniele and Maria P...",
-    "category": "Crescita Spirituale",
+    "title": "NON Portare Pesi Che Dio Non Ti Ha Dato. Impara a Distinguere i Pesi. con Daniele e Maria Pesce",
+    "category": "Pace e Ansia",
     "youtubeId": "hfkJxAmw3e0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:15:32",
     "topics": [
-      "carry",
-      "burdens",
-      "learn",
-      "distinguish"
+      "portare",
+      "impara",
+      "distinguere"
     ]
   },
   {
@@ -674,18 +667,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch45",
-    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
-    "category": "Crescita Spirituale",
+    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
+    "category": "Vangelo",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "familiar",
-      "spirits",
-      "breaking",
-      "generational",
-      "curses",
-      "gospel"
+      "spiriti",
+      "familiari",
+      "distruggendo",
+      "maledizioni",
+      "generazionali",
+      "vangelo"
     ]
   },
   {

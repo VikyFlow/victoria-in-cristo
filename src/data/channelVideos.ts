@@ -1,6 +1,6 @@
 import type { Video } from "../types/content";
 
-export const channelVideosSyncedAt = "2026-11-22T06:59:28.128Z";
+export const channelVideosSyncedAt = "2026-11-22T19:46:44.029Z";
 export const channelVideosSource = "https://www.youtube.com/@ministerosiamouno/videos";
 
 export const channelVideos: Video[] = [
@@ -17,28 +17,31 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch02",
-    "title": "NON SEI RICCO COME PENSI! Il vero significato di \"poveri in spirito\" con Daniele e Maria Pesce",
+    "title": "Sunday Sermon",
     "category": "Crescita Spirituale",
     "youtubeId": "TPP5vtA3gG0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:00",
     "topics": [
-      "ricco",
-      "pensi",
-      "significato",
-      "poveri",
-      "spirito"
+      "sunday",
+      "sermon"
     ]
   },
   {
     "id": "ch03",
-    "title": "Torben",
-    "category": "Crescita Spirituale",
+    "title": "La potenza del VANGELO ed il vero discepolato cambieranno la tua vita cristiana. Torben Sondergaard",
+    "category": "Identita",
     "youtubeId": "bUSyjFSP2sM",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "59:08",
     "topics": [
-      "torben"
+      "potenza",
+      "vangelo",
+      "discepolato",
+      "cambieranno",
+      "cristiana",
+      "torben",
+      "sondergaard"
     ]
   },
   {
@@ -170,15 +173,16 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch12",
-    "title": "OBEDIENCE IN THE FULL GOSPEL OF THE KINGDOM with Nausica della Valle",
-    "category": "Crescita Spirituale",
+    "title": "UBBIDIENZA NEL PIENO VANGELO DEL REGNO con Nausica della Valle",
+    "category": "Vangelo",
     "youtubeId": "7aMGLBwXWS0",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "56:01",
     "topics": [
-      "obedience",
-      "gospel",
-      "kingdom",
+      "ubbidienza",
+      "pieno",
+      "vangelo",
+      "regno",
       "nausica",
       "valle"
     ]
@@ -216,15 +220,14 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch15",
-    "title": "Come tornare al PRIMO AMORE per Dio? - Daniele e Maria Pesce",
+    "title": "How to Return to Our First Love for God? - Daniele and Maria Pesce",
     "category": "Crescita Spirituale",
     "youtubeId": "sQgOGmysB4I",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "1:04:03",
     "topics": [
-      "tornare",
-      "primo",
-      "amore"
+      "return",
+      "first"
     ]
   },
   {
@@ -667,18 +670,18 @@ export const channelVideos: Video[] = [
   },
   {
     "id": "ch45",
-    "title": "GLI SPIRITI FAMILIARI. Distruggendo \"Maledizioni Generazionali\" VERO VANGELO! Daniele e Maria Pesce",
-    "category": "Vangelo",
+    "title": "FAMILIAR SPIRITS. Breaking \"Generational Curses\" TRUE GOSPEL! Daniele and Maria Pesce",
+    "category": "Crescita Spirituale",
     "youtubeId": "m_Y6gQypzQA",
     "description": "Video recente dal canale Daniele e Maria Pesce, selezionato per aiutarti a crescere nella fede e nella comprensione della Parola.",
     "duration": "48:03",
     "topics": [
-      "spiriti",
-      "familiari",
-      "distruggendo",
-      "maledizioni",
-      "generazionali",
-      "vangelo"
+      "familiar",
+      "spirits",
+      "breaking",
+      "generational",
+      "curses",
+      "gospel"
     ]
   },
   {
